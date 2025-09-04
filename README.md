@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.AT one word domains](
 
 | Domain         | Status    | Attract. | Demand | Length | Registrar                                    | Created | Expires |
 | -------------- | --------- | -------- | ------ | ------ | -------------------------------------------- | ------- | ------- |
-| aaa.at         | premium   | 70       | 92%    | 3      |                                              |         |         |
+| aaa.at         | premium   | 70       | 38%    | 3      |                                              |         |         |
 | AAAA.at        | available | 68       | 84%    | 4      |                                              |         |         |
 | aah.at         | premium   | 114      | 92%    | 3      |                                              |         |         |
 | aak.at         | resell    | 68       | 32%    | 3      | Dynadot INC ( https://nic.at/registrar/650 ) |         |         |
