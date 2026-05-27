@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .at one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 73,825 domains · **Median ask:** $18.44 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/at`  
 **Best for:** founders, investors, studios
 
@@ -71,7 +71,7 @@ print(df.head())
 | wholesaler.at   | resell    | —         | —             | 58             | 76     | 10     | eu-asteria.at web invest gmbh & co KG ( https://nic.at/registrar/672 ) |
 | sumo.at         | premium   | —         | —             | 52             | 92     | 4      | —                                                                      |
 | returns.at      | available | $18.99    | —             | 72             | 16     | 7      | name.com                                                               |
-| Places.at       | resell    | —         | —             | 74             | 22     | 6      | Realtime Register B.V. ( https://nic.at/registrar/423 )                |
+| Places.at       | resell    | —         | —             | 74             | 23     | 6      | Realtime Register B.V. ( https://nic.at/registrar/423 )                |
 | auth.at         | premium   | —         | —             | 48             | 92     | 4      | —                                                                      |
 | constructive.at | available | $18.99    | —             | 70             | 16     | 12     | name.com                                                               |
 | transparency.at | resell    | —         | —             | 86             | 20     | 12     | EWBCD GmbH ( https://nic.at/registrar/750 )                            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AT One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AT One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
