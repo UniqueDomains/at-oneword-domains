@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .at one-word domains from U
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **73,825 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 73,825 domains · **Median ask:** $18.44 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 73,825 domains · **Median ask:** $14.56 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/at`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                              |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------------------------------------- |
-| spacetravel.at  | available | $18.99    | —             | 82             | 25     | 12     | name.com                                                               |
-| resident.at     | resell    | —         | —             | 76             | 84     | 8      | Realtime Register B.V. ( https://nic.at/registrar/423 )                |
-| brazil.at       | premium   | —         | —             | 66             | 96     | 6      | —                                                                      |
-| rekt.at         | available | $18.99    | —             | 40             | 24     | 4      | name.com                                                               |
-| wholesaler.at   | resell    | —         | —             | 58             | 76     | 10     | eu-asteria.at web invest gmbh & co KG ( https://nic.at/registrar/672 ) |
-| sumo.at         | premium   | —         | —             | 52             | 92     | 4      | —                                                                      |
-| returns.at      | available | $18.99    | —             | 72             | 16     | 7      | name.com                                                               |
-| Places.at       | resell    | —         | —             | 74             | 23     | 6      | Realtime Register B.V. ( https://nic.at/registrar/423 )                |
-| auth.at         | premium   | —         | —             | 48             | 92     | 4      | —                                                                      |
-| constructive.at | available | $18.99    | —             | 70             | 16     | 12     | name.com                                                               |
-| transparency.at | resell    | —         | —             | 86             | 20     | 12     | EWBCD GmbH ( https://nic.at/registrar/750 )                            |
-| elbow.at        | premium   | —         | —             | 90             | 88     | 5      | —                                                                      |
-| flourishing.at  | available | $18.99    | —             | 78             | 15     | 11     | name.com                                                               |
-| window.at       | resell    | —         | —             | 102            | 19     | 6      | Domainers Registrar AG ( https://nic.at/registrar/668 )                |
-| pedestrian.at   | premium   | —         | —             | 76             | 88     | 10     | —                                                                      |
-| whereby.at      | available | $18.99    | —             | 52             | 15     | 7      | name.com                                                               |
-| retire.at       | resell    | —         | —             | 100            | 19     | 6      | EWBCD GmbH ( https://nic.at/registrar/750 )                            |
-| entity.at       | premium   | —         | —             | 68             | 88     | 6      | —                                                                      |
-| playon.at       | available | $18.99    | —             | 80             | 14     | 7      | name.com                                                               |
-| gets.at         | resell    | —         | —             | 60             | 15     | 4      | EWBCD GmbH ( https://nic.at/registrar/750 )                            |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                     |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------- |
+| oakland.at    | available | $18.99    | —             | 66             | 20     | 7      | name.com                                                      |
+| Foods.at      | resell    | —         | —             | 56             | 92     | 5      | InterNexum GmbH ( https://nic.at/registrar/659 )              |
+| humble.at     | premium   | —         | —             | 70             | 98     | 6      | —                                                             |
+| protocols.at  | available | $11.99    | $11.99        | —              | 17     | 9      | namesilo                                                      |
+| why.at        | resell    | —         | —             | 118            | 84     | 3      | Internet Service Fuchs KG ( https://nic.at/registrar/20 )     |
+| brazil.at     | premium   | —         | —             | 66             | 96     | 6      | —                                                             |
+| boxoffice.at  | available | $18.99    | —             | 74             | 14     | 10     | name.com                                                      |
+| resident.at   | resell    | —         | —             | 76             | 84     | 8      | Realtime Register B.V. ( https://nic.at/registrar/423 )       |
+| authority.at  | premium   | —         | —             | 60             | 96     | 9      | —                                                             |
+| lower.at      | available | $18.99    | —             | 64             | 14     | 5      | name.com                                                      |
+| creditcard.at | resell    | —         | —             | 68             | 80     | 11     | InterNetX GmbH ( https://nic.at/registrar/80 )                |
+| trademark.at  | premium   | —         | —             | 104            | 92     | 9      | —                                                             |
+| curtain.at    | available | $18.99    | —             | 92             | 12     | 7      | name.com                                                      |
+| filmed.at     | resell    | —         | —             | 66             | 80     | 6      | EWBCD GmbH ( https://nic.at/registrar/750 )                   |
+| saudi.at      | premium   | —         | —             | 94             | 92     | 5      | —                                                             |
+| addition.at   | available | $11.99    | $11.99        | 70             | 11     | 8      | namesilo                                                      |
+| SaintLucia.at | resell    | —         | —             | —              | 80     | 11     | DomainQuadrat Marketing GmbH ( https://nic.at/registrar/581 ) |
+| Xanadu.at     | premium   | —         | —             | 74             | 92     | 6      | —                                                             |
+| forget.at     | available | $11.99    | $11.99        | 54             | 10     | 6      | namesilo                                                      |
+| belly.at      | resell    | —         | —             | 88             | 76     | 5      | Dynadot INC ( https://nic.at/registrar/650 )                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AT One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AT One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
