@@ -1,10 +1,10 @@
-# Available .AT One-Word Domains (73,825)
+# Available .AT One-Word Domains (74,023)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-73%2C825%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-74%2C023%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .at one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **73,825 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **74,023 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 73,825 domains · **Median ask:** $14.56 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 74,023 domains · **Median ask:** $14.17 · **High-demand under $2,500:** 13
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/at`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/at`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .AT one-word domain ca
 
 ### Files
 
-- `at.csv` — public CSV extract (1,000 rows)
-- `at.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `at.csv`, public CSV extract (1,000 rows)
+- `at.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                     |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------- |
-| oakland.at    | available | $18.99    | —             | 66             | 20     | 7      | name.com                                                      |
-| Foods.at      | resell    | —         | —             | 56             | 92     | 5      | InterNexum GmbH ( https://nic.at/registrar/659 )              |
-| humble.at     | premium   | —         | —             | 70             | 98     | 6      | —                                                             |
-| protocols.at  | available | $11.99    | $11.99        | —              | 17     | 9      | namesilo                                                      |
-| why.at        | resell    | —         | —             | 118            | 84     | 3      | Internet Service Fuchs KG ( https://nic.at/registrar/20 )     |
-| brazil.at     | premium   | —         | —             | 66             | 96     | 6      | —                                                             |
-| boxoffice.at  | available | $18.99    | —             | 74             | 14     | 10     | name.com                                                      |
-| resident.at   | resell    | —         | —             | 76             | 84     | 8      | Realtime Register B.V. ( https://nic.at/registrar/423 )       |
-| authority.at  | premium   | —         | —             | 60             | 96     | 9      | —                                                             |
-| lower.at      | available | $18.99    | —             | 64             | 14     | 5      | name.com                                                      |
-| creditcard.at | resell    | —         | —             | 68             | 80     | 11     | InterNetX GmbH ( https://nic.at/registrar/80 )                |
-| trademark.at  | premium   | —         | —             | 104            | 92     | 9      | —                                                             |
-| curtain.at    | available | $18.99    | —             | 92             | 12     | 7      | name.com                                                      |
-| filmed.at     | resell    | —         | —             | 66             | 80     | 6      | EWBCD GmbH ( https://nic.at/registrar/750 )                   |
-| saudi.at      | premium   | —         | —             | 94             | 92     | 5      | —                                                             |
-| addition.at   | available | $11.99    | $11.99        | 70             | 11     | 8      | namesilo                                                      |
-| SaintLucia.at | resell    | —         | —             | —              | 80     | 11     | DomainQuadrat Marketing GmbH ( https://nic.at/registrar/581 ) |
-| Xanadu.at     | premium   | —         | —             | 74             | 92     | 6      | —                                                             |
-| forget.at     | available | $11.99    | $11.99        | 54             | 10     | 6      | namesilo                                                      |
-| belly.at      | resell    | —         | —             | 88             | 76     | 5      | Dynadot INC ( https://nic.at/registrar/650 )                  |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| psych.at   | available | —         | —             | high           | high   | 5      | —                                                         |
+| agog.at    | available | $18.99    | $18.99        | medium         | low    | 4      | name.com                                                  |
+| why.at     | resell    | —         | —             | high           | high   | 3      | Internet Service Fuchs KG ( https://nic.at/registrar/20 ) |
+| drawn.at   | available | $18.99    | $18.99        | medium         | low    | 5      | name.com                                                  |
+| hurt.at    | resell    | —         | —             | medium         | low    | 4      | EWBCD GmbH ( https://nic.at/registrar/750 )               |
+| lower.at   | available | $18.99    | —             | medium         | low    | 5      | name.com                                                  |
+| rice.at    | resell    | —         | —             | high           | low    | 4      | Dynadot INC ( https://nic.at/registrar/650 )              |
+| became.at  | available | $11.99    | $11.99        | medium         | low    | 6      | namesilo                                                  |
+| belly.at   | resell    | —         | —             | high           | high   | 5      | Dynadot INC ( https://nic.at/registrar/650 )              |
+| choppy.at  | available | $18.99    | $18.99        | medium         | low    | 6      | name.com                                                  |
+| fatal.at   | resell    | —         | —             | high           | low    | 5      | RegistryGate GmbH ( https://nic.at/registrar/228 )        |
+| forget.at  | available | $11.99    | $11.99        | medium         | low    | 6      | namesilo                                                  |
+| Foods.at   | resell    | —         | —             | medium         | high   | 5      | InterNexum GmbH ( https://nic.at/registrar/659 )          |
+| myson.at   | available | $11.99    | $11.99        | high           | low    | 6      | namesilo                                                  |
+| filmed.at  | resell    | —         | —             | medium         | high   | 6      | EWBCD GmbH ( https://nic.at/registrar/750 )               |
+| unlike.at  | available | $11.99    | $11.99        | high           | low    | 6      | namesilo                                                  |
+| retire.at  | resell    | —         | —             | high           | low    | 6      | EWBCD GmbH ( https://nic.at/registrar/750 )               |
+| amatory.at | available | $11.99    | $11.99        | medium         | low    | 7      | namesilo                                                  |
+| window.at  | resell    | —         | —             | high           | low    | 6      | Domainers Registrar AG ( https://nic.at/registrar/668 )   |
+| animist.at | available | $11.99    | $11.99        | medium         | low    | 7      | namesilo                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 73,825 live domains                        |
+| 1,000-row public sample | 74,023 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 13 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is defined by one constraint: the domains use the .at extension. The result is a broad set of single-word .at names ranging from dictionary-style terms such as answer.at and concentrate.at to more expressive options like boogaloo.at and shinny.at. For founders, the main question is whether a name is clear, memorable, and easy to defend as a brand. For investors, the focus is whether the ask leaves room for resale and whether the word has broad commercial use. With a median ask of 18.44 across 73,826 domains, pricing starts as a useful filter, but the stronger differentiator is word quality.
+This list covers one-word .at domains that are currently available, spanning short, everyday words like out.at, half.at, and beauty.at. With 74,023 names and a median ask near $14, the selection skews toward accessible pricing while still including higher-demand names worth closer evaluation.
 
-- Favor words that are easy to say, spell, and recall
-- Check whether the ask fits the word's commercial breadth
-- Prefer terms with clear meaning over awkward variations
-- Review trademark exposure before treating a name as ownable
+- 74,023 available one-word .at domains, updated daily
+- Median ask around $14 across the full set
+- Most names fall in the high-demand (70-84) bucket
+- Real examples: transparency.at, christmas.at, sorry.at
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AT One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AT One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
