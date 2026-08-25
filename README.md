@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .at one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 78,105 domains · **Median ask:** $13.72 · **High-demand under $2,500:** 20
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/tld/at`
 **Best for:** founders, investors, studios
 
@@ -73,17 +73,17 @@ print(df.head())
 | rice.at   | resell    | —         | —             | high           | low    | 4      | Dynadot INC ( https://nic.at/registrar/650 )              |
 | lower.at  | available | $18.99    | —             | medium         | low    | 5      | name.com                                                  |
 | belly.at  | resell    | —         | —             | high           | high   | 5      | Dynadot INC ( https://nic.at/registrar/650 )              |
-| swell.at  | available | $11.99    | $11.99        | medium         | low    | 5      | namesilo                                                  |
+| lupin.at  | available | $11.99    | $11.99        | low            | low    | 5      | namesilo                                                  |
 | fatal.at  | resell    | —         | —             | high           | low    | 5      | RegistryGate GmbH ( https://nic.at/registrar/228 )        |
-| became.at | available | $11.99    | $11.99        | medium         | low    | 6      | namesilo                                                  |
+| swell.at  | available | $11.99    | $11.99        | medium         | low    | 5      | namesilo                                                  |
 | Foods.at  | resell    | —         | —             | medium         | high   | 5      | InterNexum GmbH ( https://nic.at/registrar/659 )          |
-| boiled.at | available | $11.99    | $11.99        | medium         | low    | 6      | namesilo                                                  |
+| became.at | available | $11.99    | $11.99        | medium         | low    | 6      | namesilo                                                  |
 | filmed.at | resell    | —         | —             | medium         | low    | 6      | EWBCD GmbH ( https://nic.at/registrar/750 )               |
-| bowing.at | available | $11.99    | $11.99        | medium         | medium | 6      | namesilo                                                  |
+| boiled.at | available | $11.99    | $11.99        | medium         | low    | 6      | namesilo                                                  |
 | retire.at | resell    | —         | —             | high           | low    | 6      | EWBCD GmbH ( https://nic.at/registrar/750 )               |
-| choppy.at | available | $18.99    | $18.99        | medium         | low    | 6      | name.com                                                  |
+| bowing.at | available | $11.99    | $11.99        | medium         | medium | 6      | namesilo                                                  |
 | window.at | resell    | —         | —             | high           | low    | 6      | Domainers Registrar AG ( https://nic.at/registrar/668 )   |
-| epical.at | available | $11.99    | $11.99        | medium         | low    | 6      | namesilo                                                  |
+| choppy.at | available | $18.99    | $18.99        | medium         | low    | 6      | name.com                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AT One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AT One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
