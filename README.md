@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .at one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 81,268 domains · **Median ask:** $13.32 · **High-demand under $2,500:** 20
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-17
 **Canonical page:** `https://unique.domains/domains/tld/at`
 **Best for:** founders, investors, studios
 
@@ -72,17 +72,17 @@ print(df.head())
 | godly.at  | available | $11.99    | $11.99        | medium         | low    | 5      | namesilo                                                  |
 | rice.at   | resell    | —         | —             | high           | low    | 4      | Dynadot INC ( https://nic.at/registrar/650 )              |
 | lower.at  | available | $18.99    | —             | medium         | low    | 5      | name.com                                                  |
-| belly.at  | resell    | —         | —             | high           | high   | 5      | Dynadot INC ( https://nic.at/registrar/650 )              |
-| lupin.at  | available | $11.99    | $11.99        | low            | low    | 5      | namesilo                                                  |
 | fatal.at  | resell    | —         | —             | high           | low    | 5      | RegistryGate GmbH ( https://nic.at/registrar/228 )        |
-| malar.at  | available | $11.99    | $11.99        | medium         | low    | 5      | namesilo                                                  |
+| lupin.at  | available | $11.99    | $11.99        | low            | low    | 5      | namesilo                                                  |
 | Foods.at  | resell    | —         | —             | medium         | high   | 5      | InterNexum GmbH ( https://nic.at/registrar/659 )          |
-| swell.at  | available | $11.99    | $11.99        | medium         | low    | 5      | namesilo                                                  |
+| malar.at  | available | $11.99    | $11.99        | medium         | low    | 5      | namesilo                                                  |
 | saudi.at  | resell    | —         | —             | medium         | low    | 5      | EWBCD GmbH ( https://nic.at/registrar/750 )               |
-| became.at | available | $11.99    | $11.99        | medium         | low    | 6      | namesilo                                                  |
+| swell.at  | available | $11.99    | $11.99        | medium         | low    | 5      | namesilo                                                  |
 | filmed.at | resell    | —         | —             | medium         | low    | 6      | EWBCD GmbH ( https://nic.at/registrar/750 )               |
-| boiled.at | available | $11.99    | $11.99        | medium         | low    | 6      | namesilo                                                  |
+| became.at | available | $11.99    | $11.99        | medium         | low    | 6      | namesilo                                                  |
 | retire.at | resell    | —         | —             | high           | low    | 6      | EWBCD GmbH ( https://nic.at/registrar/750 )               |
+| boiled.at | available | $11.99    | $11.99        | medium         | low    | 6      | namesilo                                                  |
+| window.at | resell    | —         | —             | high           | low    | 6      | Domainers Registrar AG ( https://nic.at/registrar/668 )   |
 | bowing.at | available | $11.99    | $11.99        | medium         | medium | 6      | namesilo                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -115,6 +115,7 @@ If this sample already feels useful, Unique Domains is where the exact search be
 - `registrar`, Registrar name when known.
 - `created_at`, Creation timestamp when known.
 - `expires_at`, Expiry timestamp when known.
+- `status_verified_at`, When status was last established against the registry. Null means never checked.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
@@ -132,6 +133,7 @@ See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 ## 🔄 Update policy
 
 - This repository is refreshed regularly from the same export pipeline used for public dataset repos.
+- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
 - The README count targets the live catalog count from the public landing response when available.
 - The CSV and JSON files contain the public extract only and may not match the full live catalog size.
 - Stable historical references should be published via GitHub Releases outside this repository snapshot.
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AT One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AT One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
