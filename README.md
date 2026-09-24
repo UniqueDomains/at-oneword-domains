@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .at one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 82,592 domains · **Median ask:** $13.01 · **High-demand under $2,500:** 19
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/at`
 **Best for:** founders, investors, studios
 
@@ -70,10 +70,10 @@ print(df.head())
 | agog.at     | available | $18.99    | $18.99        | medium         | low    | 4      | name.com                                                  |
 | basin.at    | available | $11.99    | $11.99        | low            | low    | 5      | namesilo                                                  |
 | hurt.at     | resell    | —         | —             | medium         | low    | 4      | EWBCD GmbH ( https://nic.at/registrar/750 )               |
-| drawn.at    | available | $18.99    | $18.99        | medium         | low    | 5      | name.com                                                  |
+| drawn.at    | available | $11.99    | $11.99        | medium         | low    | 5      | namesilo                                                  |
 | rice.at     | resell    | —         | —             | high           | low    | 4      | Dynadot INC ( https://nic.at/registrar/650 )              |
 | elbow.at    | available | $11.99    | $11.99        | medium         | low    | 5      | namesilo                                                  |
-| fatal.at    | resell    | —         | —             | high           | low    | 5      | RegistryGate GmbH ( https://nic.at/registrar/228 )        |
+| fatal.at    | resell    | —         | —             | medium         | low    | 5      | RegistryGate GmbH ( https://nic.at/registrar/228 )        |
 | godly.at    | available | $11.99    | $11.99        | medium         | low    | 5      | namesilo                                                  |
 | foods.at    | resell    | —         | —             | medium         | high   | 5      | InterNexum GmbH ( https://nic.at/registrar/659 )          |
 | lower.at    | available | $18.99    | —             | medium         | low    | 5      | name.com                                                  |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AT One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AT One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
