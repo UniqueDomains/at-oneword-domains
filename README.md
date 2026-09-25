@@ -1,10 +1,10 @@
-# Available .AT One-Word Domains (82,592)
+# Available .AT One-Word Domains (84,178)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-82%2C592%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-84%2C178%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .at one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **82,592 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **84,178 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 82,592 domains · **Median ask:** $13.01 · **High-demand under $2,500:** 19
+**Public extract:** 1,000 rows · **Live catalog:** 84,178 domains · **Median ask:** $12.82 · **High-demand under $2,500:** 17
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/at`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| psych.at    | resell    | —         | —             | high           | high   | 5      | —                                                         |
-| why.at      | resell    | —         | —             | high           | high   | 3      | Internet Service Fuchs KG ( https://nic.at/registrar/20 ) |
-| language.at | resell    | —         | —             | high           | low    | 8      | InterNetX GmbH ( https://nic.at/registrar/80 )            |
-| agog.at     | available | $18.99    | $18.99        | medium         | low    | 4      | name.com                                                  |
-| basin.at    | available | $11.99    | $11.99        | low            | low    | 5      | namesilo                                                  |
-| hurt.at     | resell    | —         | —             | medium         | low    | 4      | EWBCD GmbH ( https://nic.at/registrar/750 )               |
-| drawn.at    | available | $11.99    | $11.99        | medium         | low    | 5      | namesilo                                                  |
-| rice.at     | resell    | —         | —             | high           | low    | 4      | Dynadot INC ( https://nic.at/registrar/650 )              |
-| elbow.at    | available | $11.99    | $11.99        | medium         | low    | 5      | namesilo                                                  |
-| fatal.at    | resell    | —         | —             | medium         | low    | 5      | RegistryGate GmbH ( https://nic.at/registrar/228 )        |
-| godly.at    | available | $11.99    | $11.99        | medium         | low    | 5      | namesilo                                                  |
-| foods.at    | resell    | —         | —             | medium         | high   | 5      | InterNexum GmbH ( https://nic.at/registrar/659 )          |
-| lower.at    | available | $18.99    | —             | medium         | low    | 5      | name.com                                                  |
-| lupin.at    | available | $11.99    | $11.99        | low            | low    | 5      | namesilo                                                  |
-| saudi.at    | resell    | —         | —             | medium         | low    | 5      | EWBCD GmbH ( https://nic.at/registrar/750 )               |
-| malar.at    | available | $11.99    | $11.99        | medium         | low    | 5      | namesilo                                                  |
-| filmed.at   | resell    | —         | —             | medium         | low    | 6      | EWBCD GmbH ( https://nic.at/registrar/750 )               |
-| swell.at    | available | $11.99    | $11.99        | medium         | low    | 5      | namesilo                                                  |
-| mingle.at   | resell    | —         | —             | medium         | low    | 6      | GoDaddy.com, LLC ( https://nic.at/registrar/693 )         |
-| almaty.at   | available | $11.99    | $11.99        | medium         | low    | 6      | namesilo                                                  |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| agog.at   | available | $18.99    | $18.99        | high           | low    | 4      | name.com                                                  |
+| lii.at    | resell    | —         | —             | high           | low    | 3      | info.at Internet GmbH ( https://nic.at/registrar/28 )     |
+| amnic.at  | available | $11.99    | $11.99        | medium         | low    | 5      | namesilo                                                  |
+| why.at    | resell    | —         | —             | high           | high   | 3      | Internet Service Fuchs KG ( https://nic.at/registrar/20 ) |
+| domed.at  | available | $11.99    | $11.99        | high           | low    | 5      | namesilo                                                  |
+| hurt.at   | resell    | —         | —             | high           | low    | 4      | EWBCD GmbH ( https://nic.at/registrar/750 )               |
+| godly.at  | available | $11.99    | $11.99        | high           | low    | 5      | namesilo                                                  |
+| rice.at   | resell    | —         | —             | high           | low    | 4      | Dynadot INC ( https://nic.at/registrar/650 )              |
+| lower.at  | available | $18.99    | —             | high           | low    | 5      | name.com                                                  |
+| civil.at  | resell    | —         | —             | high           | low    | 5      | NimmNEM GmbH ( https://nic.at/registrar/176 )             |
+| lupin.at  | available | $11.99    | $11.99        | high           | low    | 5      | namesilo                                                  |
+| floor.at  | resell    | —         | —             | high           | low    | 5      | EPAG Domainservices GmbH ( https://nic.at/registrar/372 ) |
+| malar.at  | available | $11.99    | $11.99        | high           | low    | 5      | namesilo                                                  |
+| foods.at  | resell    | —         | —             | high           | high   | 5      | InterNexum GmbH ( https://nic.at/registrar/659 )          |
+| niner.at  | available | $11.99    | $11.99        | high           | low    | 5      | namesilo                                                  |
+| psych.at  | resell    | —         | —             | high           | high   | 5      | —                                                         |
+| swell.at  | available | $11.99    | $11.99        | high           | low    | 5      | namesilo                                                  |
+| saudi.at  | resell    | —         | —             | high           | low    | 5      | EWBCD GmbH ( https://nic.at/registrar/750 )               |
+| addled.at | available | $18.99    | $18.99        | high           | low    | 6      | name.com                                                  |
+| filmed.at | resell    | —         | —             | high           | low    | 6      | EWBCD GmbH ( https://nic.at/registrar/750 )               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 82,592 live domains                        |
+| 1,000-row public sample | 84,178 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 19 high-demand names under $2,500          |
+| Basic exported fields   | 17 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AT One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AT One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
