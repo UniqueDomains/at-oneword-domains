@@ -2,7 +2,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 184a4e85-b362-4356-a850-027403a574f9,lienal.at,available,11.99,11.99,medium,low,6,namesilo,,,23/08/2026 01:33
 ba720dc1-c716-4d9b-8159-d83eb109e595,devotedly.at,available,11.99,11.99,high,low,9,namesilo,,,14/09/2026 12:28
 73ffd662-3257-4ba7-8360-88acfbcb8dc4,peculiar.at,available,11.99,11.99,high,low,8,namesilo,,,13/08/2026 11:08
-231f7cfc-6da0-4263-b9f4-870b12c70ddc,cloudlike.at,available,11.99,11.99,medium,low,9,namesilo,,,12/08/2026 12:38
+231f7cfc-6da0-4263-b9f4-870b12c70ddc,cloudlike.at,available,11.99,11.99,high,low,9,namesilo,,,12/08/2026 12:38
 3911e7ee-1ad3-4503-ba2f-c55e09a5c5e4,backlift.at,available,,,high,high,8,,,,
 91c908f3-c348-4fd7-9e9c-cf9e8477ef25,exegetic.at,available,11.99,11.99,medium,low,8,namesilo,,,17/08/2026 16:59
 1bc9c2e6-ed6b-461e-98f8-366aee2a6380,spaceflight.at,available,,,high,high,12,,,,
@@ -11,7 +11,7 @@ eaf38bee-a85d-4887-a79c-56f76e20c1f9,intertwine.at,available,,,high,high,10,,,,
 460d9091-b88e-4926-9b18-efe602388458,molehill.at,available,,,high,high,8,,,,
 dddbf5f2-3fae-4df3-98b0-9682a7d27ee7,dashed.at,available,18.99,18.99,high,low,6,name.com,,,13/08/2026 18:27
 b185e9f9-b940-446e-8923-0eb4b0025de8,ruling.at,available,11.99,11.99,high,medium,6,namesilo,,,09/09/2026 12:58
-ede5f5d0-d62c-480c-bc09-b5ceb786b268,percolates.at,available,,,medium,low,10,,,,
+ede5f5d0-d62c-480c-bc09-b5ceb786b268,percolates.at,available,,,high,low,10,,,,
 d28911f2-c957-4269-a622-9fb3cb26df9c,downfeather.at,available,,,high,high,11,,,,
 3f995439-556b-405f-9ac1-0ee0a213e0dd,possessors.at,available,,,medium,low,10,,,,
 310d7fb3-3fa3-41b5-971f-3d40b084c11e,childishness.at,available,,,high,low,12,,,,
@@ -30,10 +30,10 @@ b6af6dbd-6e24-4935-a0f2-68f857bff21a,perforation.at,available,18.99,,high,low,11
 59ae59d6-4c14-452e-9a63-a6e9f102d588,pervious.at,available,,,high,low,8,,,,08/09/2026 18:09
 14785244-1e92-4ed7-9da5-63d63665373b,grilled.at,available,11.99,11.99,high,low,7,namesilo,,,08/08/2026 16:31
 c32f58d6-7795-4758-b73a-b1090aa26878,unitization.at,available,,,high,high,11,,,,
-99a8573b-9773-46c7-bb2d-b6fb72d3c800,roswell.at,available,11.99,11.99,medium,low,7,namesilo,,,28/09/2026 15:16
+99a8573b-9773-46c7-bb2d-b6fb72d3c800,roswell.at,available,11.99,11.99,high,low,7,namesilo,,,28/09/2026 15:16
 90e00857-007c-4eab-ad2a-5e18b5226a8a,leftovers.at,available,11.99,11.99,high,high,9,namesilo,,,29/09/2026 02:17
 535fb79f-a045-4f8a-a05f-e4bb40da2d3a,drily.at,available,11.99,11.99,medium,low,5,namesilo,,,14/09/2026 14:23
-44ae4a4b-f9a3-47b7-9e2e-614498160273,tends.at,available,,,high,high,5,,,,
+44ae4a4b-f9a3-47b7-9e2e-614498160273,tends.at,available,11.12,11.12,medium,low,5,dynadot,,,29/09/2026 04:58
 8ccbb861-eb8a-40ea-b3f5-ddc08ff8392c,inocor.at,available,11.99,11.99,high,low,6,namesilo,,,18/09/2026 23:58
 8f7adb94-5909-458f-bccc-9c441eeefb78,swati.at,available,,,high,high,5,,,,
 4c1b737b-f4a0-4a8f-9354-487399cf8ddc,masterliness.at,available,,,high,low,12,,,,
@@ -65,7 +65,7 @@ c7826977-a8fa-4bb9-beeb-235b0085bda3,exhibitor.at,available,11.99,11.99,high,hig
 f04d0ff1-21df-4c73-86dd-ddac1011f29e,boreas.at,available,11.99,11.99,high,low,6,namesilo,,,03/09/2026 21:36
 6d64d6eb-1364-424b-bbef-0ae0a9088cca,unu.at,available,,,high,high,3,,,,
 9e58274b-1cd6-4f41-bff4-68d335356e8e,countenance.at,available,11.99,11.99,high,high,11,namesilo,,,27/09/2026 05:39
-4400f1c8-8809-4e3a-9944-8b093ed1cc61,goldeneyes.at,available,,,medium,low,10,,,,
+4400f1c8-8809-4e3a-9944-8b093ed1cc61,goldeneyes.at,available,,,high,low,10,,,,
 be7289b3-fa77-4f3c-b8d0-7991f44e0708,blinker.at,available,,,high,high,7,,,,
 6354d18a-cafd-4fe6-a136-0d8f90fc9a2f,reablement.at,available,,,high,high,10,,,,
 19450d67-cde1-4f42-a3d6-0f889dc0a734,bodyboarders.at,available,,,medium,low,12,,,,
@@ -96,7 +96,7 @@ ebe7560f-b832-4ece-84a0-54312fccfbec,threshold.at,available,11.99,11.99,high,low
 095caae0-c042-45a0-8471-ee1a1c6988bc,continuationism.at,available,,,medium,low,15,,,,
 4a083180-2859-4a8f-aabe-cba18e49b4d9,anaphase.at,available,11.99,11.99,high,low,8,namesilo,,,19/09/2026 02:09
 9036f320-afbf-4fbf-a45c-66a765e3335e,epicentre.at,available,,,high,high,9,,,,
-8884a2f9-4d09-4ff2-94c2-d93bd2d1bcda,midblastula.at,available,,,medium,low,11,,,,
+8884a2f9-4d09-4ff2-94c2-d93bd2d1bcda,midblastula.at,available,,,high,low,11,,,,
 fdd29eca-7527-49c1-9e8d-ef25d6700593,dynamism.at,available,,,high,high,8,,,,
 ec813ae1-9d25-4047-9b00-3188dc17aa4c,mio.at,available,,,high,high,3,,,,
 18fd9696-6f0d-41da-a71d-ef486b973e5d,midcervical.at,available,,,high,low,11,,,,
@@ -106,7 +106,7 @@ fd07e149-f0c9-4c2e-b079-245a12b535b7,ctv.at,available,,,high,high,3,,,,
 80519ce6-d808-4533-a49d-d9802adf9e09,quebec.at,available,,,high,high,6,,,,
 39a3808b-1f05-492c-9505-3588671b9bde,chirpers.at,available,,,medium,low,8,,,,
 c8e8519f-d472-4d35-9db9-9b507ede4ed1,cordoba.at,available,,,high,high,7,,,,
-56633365-cec7-4747-bf0e-829fafcad26f,chestnuts.at,available,11.99,11.99,medium,low,9,namesilo,,,20/09/2026 20:45
+56633365-cec7-4747-bf0e-829fafcad26f,chestnuts.at,available,11.99,11.99,high,low,9,namesilo,,,20/09/2026 20:45
 6869f08f-7962-451d-8106-134fc44e18a0,hyannis.at,available,,,high,high,7,,,,
 1fc2885e-0980-4046-9c55-d286d48fd544,mothball.at,available,,,high,high,8,,,,
 91b9f567-147c-4167-8f05-b4047dc41ef3,couvade.at,available,,,high,high,7,,,,
@@ -127,7 +127,7 @@ ee24c801-b51c-4f46-b495-81158faaa01d,clarabelle.at,available,,,high,high,10,,,,
 41ad4701-1fd9-45ba-a31b-d6617332f649,eliminate.at,available,11.99,11.99,high,low,9,namesilo,,,
 a16039ab-f453-4235-ab93-240dccca8ab8,barrelhead.at,available,,,high,high,10,,,,
 3318b12a-8ea7-4fd6-a068-e94387dd68f3,lite.at,available,,,high,low,4,,,,
-cfa1be5a-3205-4981-818f-f062db3a0e2d,ephesian.at,available,11.99,11.99,medium,low,8,namesilo,,,17/08/2026 10:24
+cfa1be5a-3205-4981-818f-f062db3a0e2d,ephesian.at,available,11.99,11.99,high,low,8,namesilo,,,17/08/2026 10:24
 31f6a5f0-d1f1-4780-824b-4f5363d4dd50,bigness.at,available,11.99,11.99,high,low,7,namesilo,,,23/09/2026 15:14
 9e01f956-cb7d-405d-aa34-122370914e67,belittling.at,available,11.99,11.99,medium,low,10,namesilo,,,09/08/2026 13:10
 67b7c92f-a4db-4c50-8559-21de72b91fdc,bookplate.at,available,11.99,11.99,high,high,9,namesilo,,,27/09/2026 06:19
@@ -146,7 +146,7 @@ dd445cb0-8623-42ea-98f7-de1181cf9bb7,ijaza.at,available,,,high,high,5,,,,
 103a5575-e3cd-4ff4-8aa7-bbdb37778016,dribbling.at,available,,,high,high,9,,,,
 b319e8e7-1273-476a-9d1a-8093011c27a0,kirksville.at,available,,,high,high,10,,,,
 96972cc1-fd11-4d8b-96f3-9d99595cc934,alonely.at,available,,,high,high,7,,,,
-2be49cfd-72c3-404c-9292-d58a16b2d3ed,jude.at,resell,,,high,high,4,RegistryGate GmbH ( https://nic.at/registrar/228 ),,,26/09/2026 07:02
+2be49cfd-72c3-404c-9292-d58a16b2d3ed,jude.at,resell,,,high,low,4,RegistryGate GmbH ( https://nic.at/registrar/228 ),,,29/09/2026 18:47
 9242ae3d-f5bf-46b5-a23c-595fb3222329,biblically.at,available,,,high,high,10,,,,
 7b7c6178-fa5b-4d54-9e76-aaa463cf4af2,ntl.at,available,,,high,high,3,,,,
 257b7b1e-62c9-4069-948f-a646369e1a97,atherstone.at,available,,,high,high,10,,,,
@@ -157,12 +157,12 @@ fbf44880-035d-4a85-9731-4e41f0433d08,comicsverse.at,available,,,high,high,11,,,,
 8b8511d7-0642-4730-96cb-1c25580bd83e,sang.at,available,,,high,low,4,,,,
 391f516b-ad4b-40c0-ae88-5942752e7c7d,fredericktown.at,available,,,high,high,13,,,,
 190cf231-4b2d-44c6-9871-bfddc8e478b2,teragram.at,available,,,high,high,8,,,,
-a0929529-c203-45fe-843c-d317e8181f85,receives.at,available,11.99,11.99,medium,low,8,namesilo,,,18/09/2026 17:46
+a0929529-c203-45fe-843c-d317e8181f85,receives.at,available,11.99,11.99,high,low,8,namesilo,,,18/09/2026 17:46
 dd014473-1a5a-4cdd-bc4c-3bf972143759,sample.at,resell,,,high,low,6,Internet Service Fuchs KG ( https://nic.at/registrar/20 ),,,26/09/2026 08:48
 63b815d1-b736-4f52-b768-7342e4d94331,transsexuality.at,available,,,high,high,14,,,,
 7f192e4d-a5df-4775-8c18-c401691533a9,disarmer.at,available,11.99,11.99,high,low,8,namesilo,,,04/09/2026 22:39
 7dff6650-aa56-4085-ad9c-42e69d3937ae,eyelids.at,available,,,high,low,7,,,,
-3050caa3-7fce-49a5-b333-3a9517bcf704,vines.at,available,,,high,high,5,,,,
+3050caa3-7fce-49a5-b333-3a9517bcf704,vines.at,available,11.99,11.99,high,low,5,namesilo,,,29/09/2026 23:04
 60934301-4c0f-41ed-89e1-30829f8de997,docudrama.at,available,11.99,11.99,high,low,10,namesilo,,,14/08/2026 14:28
 a9f16713-bfd3-4254-b953-e163084ab854,grandaunts.at,available,,,medium,low,10,,,,
 0ea40705-f42b-4d94-a403-365036d7f9eb,prized.at,available,,,high,high,6,,,,
@@ -186,7 +186,7 @@ f49220ca-f6bf-4fc2-aa83-48ca21be42fa,capitalization.at,available,,,high,high,14,
 5eecbe0a-0d22-4ea5-837e-e38ba6a38ae8,sconces.at,available,,,medium,low,7,,,,
 7e2745df-fcbd-4b53-8706-a0ad185144ba,womban.at,available,,,high,high,6,,,,
 c20d2193-00bf-4e87-b056-a672d39f1aa1,laristan.at,available,,,high,high,8,,,,
-b0114c9a-e9e3-4be6-9bcd-a8ee74f6ef82,barometric.at,available,18.99,18.99,medium,low,10,name.com,,,08/08/2026 20:06
+b0114c9a-e9e3-4be6-9bcd-a8ee74f6ef82,barometric.at,available,18.99,18.99,high,low,10,name.com,,,08/08/2026 20:06
 dc7678b9-9d44-4274-8ad8-4580b82143ed,crockpots.at,available,,,medium,low,9,,,,
 6b084efb-6fb4-4144-a25f-b4cb271b21fe,alummah.at,available,11.99,11.99,high,low,8,namesilo,,,18/09/2026 01:08
 57946053-cc60-4426-8e39-5078b9d45225,bellflower.at,available,11.99,11.99,high,low,10,namesilo,,,23/09/2026 06:06
@@ -207,10 +207,11 @@ ed1b6907-d628-49b1-8aa4-c1b961c6e00a,hollywoodite.at,available,,,high,high,12,,,
 276311d6-8cb1-48d4-a206-c5105fde27ff,unshaped.at,available,11.99,11.99,medium,low,8,namesilo,,,12/09/2026 19:31
 167a92f0-0138-4703-8e2b-c155381a509a,fontanel.at,available,,,high,high,8,,,,
 8eb3f654-4db8-4401-90ce-a2c1df24623e,keynesian.at,available,11.99,11.99,high,low,9,namesilo,,,22/08/2026 15:46
+98dc3a8a-c3de-42fd-ac0e-78a9380b80cc,lacks.at,available,11.12,11.12,medium,low,5,dynadot,,,29/09/2026 10:48
 de42ea98-1931-4fd1-ae7f-86052c3c17b9,balinese.at,available,11.99,11.99,high,low,8,namesilo,,,21/09/2026 22:04
 da497c29-4605-48b5-a599-f8eab09787af,indulges.at,available,,,high,low,8,,,,
 f9aefb1e-0f65-4cee-8daf-edf3a3e0448e,microbic.at,available,11.99,11.99,medium,low,8,namesilo,,,24/08/2026 22:21
-4ebccf79-8224-4afb-9862-272a0fb66ba0,joins.at,available,,,high,low,5,,,,
+4ebccf79-8224-4afb-9862-272a0fb66ba0,joins.at,available,11.99,11.99,high,low,5,namesilo,,,29/09/2026 17:15
 2f1a5eab-521c-4fe1-b7b4-29d232d942a8,bandanna.at,available,11.99,11.99,high,low,8,namesilo,,,22/09/2026 00:59
 f14110c2-15dd-445e-8e4f-0ac8aba42990,kinleith.at,available,,,high,high,8,,,,
 56807237-31d0-42d0-a698-902aa49fe0cc,geniculately.at,available,,,medium,low,12,,,,
@@ -223,17 +224,17 @@ f9afa125-46f2-48d2-95bc-2ed8a82f5d60,antineutrino.at,available,,,high,high,12,,,
 036553bb-7856-4e43-92bb-95cab055978e,earring.at,available,,,high,high,7,,,,
 8eadd3f3-0ae2-492e-8d5c-4d632f1a10b4,riming.at,available,11.99,11.99,high,low,6,namesilo,,,09/09/2026 16:55
 2a9c212d-a6d3-462e-93ca-1cd27cdc82e2,epilate.at,available,,,high,high,7,,,,
-d44fb766-3f20-4538-9ae4-e8a6f6e10199,heartthrob.at,available,18.99,,high,low,10,name.com,,,
-eb3f9d48-7903-4f57-8cb7-083685b3d31f,boggs.at,available,,,high,high,5,,,,
+d44fb766-3f20-4538-9ae4-e8a6f6e10199,heartthrob.at,available,11.99,11.99,high,low,10,namesilo,,,29/09/2026 22:26
+eb3f9d48-7903-4f57-8cb7-083685b3d31f,boggs.at,available,11.12,11.12,medium,low,5,dynadot,,,29/09/2026 04:30
 d1d482ed-b4d6-4365-aa0f-52d12ff085a0,chekov.at,available,11.99,11.99,high,low,6,namesilo,,,19/09/2026 15:28
 5a7024c6-6342-4e4d-b962-b7d260ddafa9,strasbourg.at,available,11.99,11.99,high,low,10,namesilo,,,27/09/2026 15:59
 0eb7ef4a-6c1d-465a-b8aa-02a3e9a0a467,emboss.at,available,18.99,18.99,high,low,6,name.com,,,10/08/2026 20:42
 20978e6a-6061-4bab-83fa-08b6313c9b7a,dormouse.at,available,,,high,high,8,,,,
 0dd47102-e97a-4b6c-80bb-520ce9f70a50,adeptly.at,available,,,high,high,7,,,,
 e19704e4-a0f8-4356-912c-27b50df6f5cf,answerphones.at,available,,,medium,low,12,,,,
-c29b6198-9688-442c-a30e-a3a1628b9e84,agrologic.at,available,11.99,11.99,medium,low,9,namesilo,,,
+c29b6198-9688-442c-a30e-a3a1628b9e84,agrologic.at,available,11.99,11.99,high,low,9,namesilo,,,
 27028250-47ea-4739-b20a-e550b86805bb,decolletage.at,available,,,high,high,11,,,,
-18afae3c-5ddf-484b-bdc6-c3f124a78e15,heightened.at,available,,,high,high,10,,,,
+18afae3c-5ddf-484b-bdc6-c3f124a78e15,heightened.at,available,11.12,11.12,high,low,10,dynadot,,,29/09/2026 21:14
 bcb5e288-5b2a-4ac9-9df4-fb51f4f76cc1,orde.at,available,11.99,11.99,high,high,4,namesilo,,,29/09/2026 02:20
 51bceeb0-762d-4b02-8ff1-5dd696411f2d,baptise.at,available,,,high,high,7,,,,
 6ab08a7b-0cad-4cf5-9996-c314d7f8f4d6,buffered.at,available,,,high,high,8,,,,
@@ -267,7 +268,7 @@ e402dcf1-5760-4e19-9682-8148f1a4d74f,maps.at,resell,,,high,low,4,Domainers Regis
 109e6761-dd8b-464e-9bd0-14f1fd34ceb3,chas.at,available,11.99,11.99,medium,low,4,namesilo,,,28/09/2026 21:45
 c6bb95d9-b3b9-4658-bf4f-7877e9468209,maternally.at,available,11.99,11.99,high,low,10,namesilo,,,25/08/2026 07:10
 9ac296fb-5d74-4f27-b021-4241ec6c2450,aflo.at,available,,,high,low,6,,,,
-4a46bd47-c9de-41fe-9ea7-db7c9c009261,duck.at,resell,,,high,low,4,Internet Service Fuchs KG ( https://nic.at/registrar/20 ),,,26/09/2026 05:42
+4a46bd47-c9de-41fe-9ea7-db7c9c009261,duck.at,resell,,,high,low,4,Internet Service Fuchs KG ( https://nic.at/registrar/20 ),,,29/09/2026 17:03
 dda3e18a-7f6e-43f5-be82-504a6948d63c,coated.at,available,11.99,11.99,high,low,6,namesilo,,,12/08/2026 14:14
 5d5d71bc-806f-4d52-a6aa-e9e2cdac9f9f,artemidean.at,available,,,medium,low,10,,,,
 dbeaf4dd-b914-499e-b5b3-92236fb51b22,vexer.at,available,11.99,11.99,medium,low,5,namesilo,,,19/09/2026 10:52
@@ -279,11 +280,10 @@ d83a1009-e706-4adb-aefc-e024acb4f79f,spica.at,available,,,high,high,5,,,,
 0863a91c-eeb9-444c-be0b-27c2f032b5a5,uplands.at,available,,,high,high,7,,,,
 c0617345-1de0-458a-bfa9-a756ca99e287,swashbuckling.at,available,,,high,high,13,,,,
 293f4466-7692-45ed-9817-2fdb20d45a15,assimilate.at,available,11.99,11.99,high,high,10,namesilo,,,27/09/2026 05:04
-67f92ec9-05eb-401e-974d-522a4013792a,iced.at,available,,,high,high,4,,,,
-406ac9e8-bb5f-4c74-95b0-1162718c1da6,lancaster.at,resell,,,high,high,9,PromoMasters Online Marketing Ges.m.b.H ( https://nic.at/registrar/422 ),,,26/09/2026 07:08
-c53b36fc-1ffd-48e1-9bb3-c5408c68b8df,foods.at,resell,,,medium,low,5,InterNexum GmbH ( https://nic.at/registrar/659 ),,,28/09/2026 22:58
+406ac9e8-bb5f-4c74-95b0-1162718c1da6,lancaster.at,resell,,,high,low,9,PromoMasters Online Marketing Ges.m.b.H ( https://nic.at/registrar/422 ),,,29/09/2026 19:11
+c53b36fc-1ffd-48e1-9bb3-c5408c68b8df,foods.at,resell,,,high,low,5,InterNexum GmbH ( https://nic.at/registrar/659 ),,,28/09/2026 22:58
 4de2f7da-13e3-4006-8227-10ddc6366fd2,bloxwich.at,available,,,high,high,8,,,,
-f943bc42-311d-4fa5-8ed5-c66bc2ad1eaf,knowledgeable.at,available,11.99,11.99,high,low,13,namesilo,,,25/09/2026 05:42
+f943bc42-311d-4fa5-8ed5-c66bc2ad1eaf,knowledgeable.at,available,11.99,11.99,high,low,13,namesilo,,,29/09/2026 08:34
 cb373cb5-9a25-4212-9109-8fa633611908,pulsebe.at,available,,,high,high,9,,,,
 7ba33021-db18-4a03-a182-f7334c3901ab,bulllike.at,available,,,high,high,8,,,,
 5661cee2-5900-4d6e-a4e3-cf6c4261e93e,rusted.at,available,,,high,low,6,,,,09/09/2026 20:17
@@ -319,9 +319,9 @@ b162dfea-ce38-4753-971e-ae95553f3ebe,conviction.at,available,,,high,low,10,,,,
 00fa28f5-0d88-4f94-9c4c-e9cb7590930a,propagation.at,available,,,high,high,11,,,,
 7b119ac2-16a4-4a45-8f8e-5a72880f1940,foxford.at,available,,,high,high,7,,,,
 16f8b649-0ec7-419d-a4c9-110e81779eb3,embellishing.at,available,,,high,high,12,,,,
-389b4b2e-aca2-4e8e-931d-2a393d122b7d,fortune.at,available,,,high,low,7,,,,
 7b4e277f-fe7e-4c40-8dc4-6e412883789f,flirter.at,available,,,high,high,7,,,,
 a28d26de-1db9-412b-b8c5-71fb7f5183f1,assuredly.at,available,11.99,11.99,high,low,9,namesilo,,,13/09/2026 22:09
+40e3448d-29c5-4f93-8dec-de9c9e8721fa,ruining.at,available,11.12,11.12,high,low,7,dynadot,,,29/09/2026 19:30
 b550641c-ecf1-4fe9-ad15-48316bebb914,retch.at,available,11.99,11.99,high,medium,5,namesilo,,,10/09/2026 07:37
 e47a7667-06ce-4fb2-957d-7b7565d4a7d2,ellipsoid.at,available,11.99,11.99,high,low,9,namesilo,,,16/08/2026 04:37
 ac6c3aa5-59ec-4807-bab7-c6ecd503e729,butterfish.at,available,,,high,high,10,,,,
@@ -329,13 +329,12 @@ ac6c3aa5-59ec-4807-bab7-c6ecd503e729,butterfish.at,available,,,high,high,10,,,,
 15f1f0d8-1f08-4c0c-8bcb-a014dffc7c9b,fagged.at,available,11.99,11.99,medium,low,6,namesilo,,,14/08/2026 14:47
 3a4f9af6-1aea-47c8-bd25-e2f41e0420a9,aspirational.at,available,11.99,11.99,high,high,12,namesilo,,,27/09/2026 05:04
 1bb3df2a-6b70-4269-9ff5-8f536ffa92f9,planting.at,available,11.13,11.13,high,low,8,dynadot,,,28/09/2026 20:12
-5a3542fd-12cd-4c23-b700-b4c26e89e703,deferments.at,available,,,medium,low,10,,,,
+5a3542fd-12cd-4c23-b700-b4c26e89e703,deferments.at,available,,,high,low,10,,,,
 06386a6b-22b9-4c1d-a191-3caf3670e8ee,postgraduate.at,available,,,high,medium,13,,,,
 7af781d2-0eea-407d-a753-6275cfc5841c,aruru.at,available,11.99,11.99,high,low,5,namesilo,,,20/09/2026 12:26
 054553d6-1423-4c7a-a8bb-9f7f8fa4b2ac,tallowwood.at,available,,,high,high,11,,,,
 22bf8aee-3424-4b28-9843-f0b894106ec4,doubtless.at,available,11.99,11.99,high,low,9,namesilo,,,14/09/2026 13:54
 70c74f25-0dba-402d-8253-21f907fc1a81,statewide.at,available,,,high,low,9,,,,10/09/2026 19:10
-115fce68-8158-4e05-b139-9bafbc32b02a,camouflage.at,available,,,high,low,10,,,,
 3afe48cb-2934-4005-b6da-0a9cd928e89d,anticlimax.at,available,11.99,11.99,high,low,10,namesilo,,,19/09/2026 14:16
 32608df9-b033-47cb-b789-a40d2b0a2a94,deductibles.at,available,,,high,low,11,,,,
 c9b3c362-0d6e-4215-9e1a-5502407a68c7,cornbread.at,available,,,high,high,9,,,,
@@ -353,8 +352,8 @@ efc0bc36-3da6-4e13-b2e8-63d5be719545,cumberbatchian.at,available,,,high,high,14,
 60dd7d79-f1fe-4b8f-bc93-37b3477d86a2,interpretation.at,available,,,high,high,14,,,,
 59b83f71-fb51-4a02-89a6-88669d94934e,reasonableness.at,available,,,high,high,14,,,,
 624be7c8-3fb3-468d-89c6-7656c062b1bd,tempest.at,available,,,high,high,7,,,,
-0031957a-ee58-4eec-bb61-328dbe7cba0c,ptarmoscopy.at,available,,,medium,low,11,,,,
-6d0404aa-875e-41b6-bdc5-dbf8026e76d6,reproductive.at,available,,,high,high,12,,,,
+0031957a-ee58-4eec-bb61-328dbe7cba0c,ptarmoscopy.at,available,,,high,low,11,,,,
+6d0404aa-875e-41b6-bdc5-dbf8026e76d6,reproductive.at,available,11.99,11.99,high,low,12,namesilo,,,29/09/2026 14:35
 fcbc7fe4-fbfb-44f0-90db-e84ef6d07bf7,bearish.at,available,11.99,11.99,medium,low,7,namesilo,,,09/08/2026 04:48
 bdf26cd0-fc49-4557-96a2-15b82576ce66,tidbits.at,available,,,high,medium,7,,,,
 785d3046-e6a3-481a-8a9f-3428dd988731,biased.at,available,11.99,11.99,high,low,6,namesilo,,,09/08/2026 18:36
@@ -363,8 +362,8 @@ ac48e888-2166-4286-9eee-afb72d89097b,clovis.at,available,11.99,11.99,medium,low,
 6e8291ed-1a76-4683-981a-15466266e3b6,cybersecure.at,available,,,high,high,11,,,,
 8ec49889-94ec-4fb3-9136-d3a43aa32cf7,arrays.at,available,11.99,11.99,medium,low,6,namesilo,,,20/09/2026 09:17
 e177c5a9-7a78-4f15-beb8-2ee2b0e7e0f3,geekout.at,available,,,high,high,8,,,,
-49a5f137-a8fc-4a8e-982a-7540223dd9bf,funerals.at,available,,,high,medium,8,,,,
-3be97916-9cc7-488b-a9bd-b2439bda34fe,pyle.at,available,,,high,high,4,,,,
+49a5f137-a8fc-4a8e-982a-7540223dd9bf,funerals.at,available,11.99,11.99,high,low,8,namesilo,,,29/09/2026 17:32
+3be97916-9cc7-488b-a9bd-b2439bda34fe,pyle.at,available,11.99,11.99,high,low,4,namesilo,,,29/09/2026 07:17
 0177eb05-492a-44ce-8de2-0f6a9d2d955c,membership.at,resell,,,high,low,10,EWBCD GmbH ( https://nic.at/registrar/750 ),,,28/09/2026 06:23
 d54efd31-a5f2-4ff3-bc5b-6f5aa9946445,coownership.at,available,,,high,low,12,,,,
 6da9221a-2b3b-4ae2-a44c-7a09a5f9e92a,mesmeric.at,available,18.99,18.99,high,low,8,name.com,,,24/08/2026 21:13
@@ -404,7 +403,7 @@ b2dc9f1e-e3d2-487e-8cc1-6cdf9ed14e53,medalists.at,available,,,high,low,9,,,,
 3394477d-3027-4131-836d-af1a6622b71d,xenophile.at,available,,,high,high,9,,,,
 2d33a4ce-711a-41f5-b4f7-7d9dbf96d552,aspie.at,available,,,high,high,5,,,,
 819883c5-a596-4b21-9657-142abd2c8d9c,revivalism.at,available,,,high,high,10,,,,
-f7bd3fc8-f0b1-4344-b71a-62c423333098,transporting.at,available,,,high,high,12,,,,
+f7bd3fc8-f0b1-4344-b71a-62c423333098,transporting.at,available,11.12,11.12,high,low,12,dynadot,,,29/09/2026 14:44
 6221f02b-052f-45c7-ba4b-18288b3e5c1c,teabox.at,available,,,high,high,6,,,,
 0aacba3e-e954-401b-92f9-95f99746f0fd,accoutrements.at,available,,,high,high,13,,,,
 318168b2-14db-477c-b979-9acce3ff350c,overleaf.at,available,,,high,low,8,,,,15/09/2026 18:27
@@ -422,7 +421,7 @@ f788eb4b-d266-4e9c-a015-369114ffb73a,drawerlike.at,available,,,high,high,10,,,,
 e0ddfc47-2e7f-4a47-84fd-11521e3cb50f,porcine.at,available,11.99,11.99,medium,low,7,namesilo,,,21/08/2026 10:21
 63244e40-17ea-4043-9cc1-9c3f173ce1f9,gabbi.at,available,,,high,medium,5,,,,
 53c115f6-bf0b-4b21-8f69-46f4bfc045d0,interviewee.at,available,11.99,11.99,high,low,11,namesilo,,,
-77432d61-1e5a-494d-aae5-5e1c7f53d241,hamburg.at,available,,,high,high,7,,,,
+bd4584f0-21bd-4277-8775-92eabf3009e4,slowing.at,available,11.99,11.99,medium,low,7,namesilo,,,29/09/2026 06:36
 93423d59-cc74-4f1c-bc27-3e129d129eb3,wove.at,available,,,high,high,4,,,,
 384742cd-529e-47cc-ace3-8c796829a09e,summery.at,available,11.99,11.99,high,low,7,namesilo,,,11/09/2026 01:38
 c0e8ff88-36ea-465e-9744-ea73bf208544,rascal.at,available,,,high,high,6,,,,
@@ -434,7 +433,7 @@ ceba7769-a094-44b8-9629-91938fad1d73,midchromosome.at,available,,,high,high,13,,
 98f7929c-b06a-4d72-afbb-b7ca8bfd4da0,disregarded.at,available,11.99,11.99,high,low,11,namesilo,,,
 ce92934c-daa2-4db4-9d80-a6e14b0f000b,premedication.at,available,,,high,high,13,,,,
 15aa7545-657f-40dd-baf7-494bdc732d84,sickish.at,available,11.99,11.99,medium,low,7,namesilo,,,03/09/2026 14:05
-07d7c8fb-a350-4776-ab0d-6139729e1733,scalp.at,resell,,,high,high,5,IONOS SE ( https://nic.at/registrar/22 ),,,26/09/2026 08:50
+07d7c8fb-a350-4776-ab0d-6139729e1733,scalp.at,resell,,,high,low,5,IONOS SE ( https://nic.at/registrar/22 ),,,29/09/2026 08:01
 16fbb1a2-e8de-49e6-acd8-7a832bb017fd,gurkha.at,available,,,high,high,6,,,,
 bcdea70f-f313-4eba-8d7a-6fa04df78e69,jammed.at,available,11.99,11.99,high,low,6,namesilo,,,22/08/2026 12:07
 4563d310-8bf9-408b-8741-87797f283ef0,chocolatey.at,available,,,high,low,10,,,,
@@ -486,7 +485,7 @@ beca71cb-2c4e-4444-913a-7820a5e9b4f1,effecter.at,available,,,high,high,8,,,,
 00a20d8b-20b9-4fc8-8478-a7203497b56a,stertorous.at,available,,,medium,low,10,,,,10/09/2026 20:21
 0e0ec6ab-d17f-4640-842a-91019f0b8ce2,port.at,resell,,,high,low,4,eu-kybele.at web invest gmbh & co KG ( https://nic.at/registrar/687 ),,,26/09/2026 08:15
 8e5c3868-e4ca-4eea-a467-e454e9357974,greeters.at,available,,,high,low,8,,,,
-13964052-8b93-46b9-b93d-32165bbabc22,substantially.at,available,,,high,medium,13,,,,
+13964052-8b93-46b9-b93d-32165bbabc22,substantially.at,available,11.12,11.12,high,low,13,dynadot,,,29/09/2026 21:22
 dccc8f85-1cc5-4793-aad2-eff9e6dfb2e0,tools.at,resell,,,high,medium,5,INWX GmbH ( https://nic.at/registrar/453 ),,,26/09/2026 09:40
 447c9d17-f212-4d9d-b9b0-c5a998171e99,transact.at,available,,,high,high,8,,,,
 61c059cd-3c15-4f6a-892a-41b97849f2a6,edistribution.at,available,,,high,high,14,,,,
@@ -498,7 +497,7 @@ dccc8f85-1cc5-4793-aad2-eff9e6dfb2e0,tools.at,resell,,,high,medium,5,INWX GmbH (
 0b995478-8907-4bc8-a013-2a1bf86d6f9d,scaffolded.at,available,,,high,high,10,,,,
 27be38da-7d53-4a2d-9ba3-6d436f8cee74,ecosystems.at,available,,,high,medium,10,,,,
 e6685bd2-9703-45cc-97b7-164d9b4170aa,gating.at,available,,,high,high,6,,,,
-8e3c5af2-f802-4532-b018-44cf3a77d153,phone.at,resell,,,high,low,5,InterNetX GmbH ( https://nic.at/registrar/80 ),,,26/09/2026 08:08
+8e3c5af2-f802-4532-b018-44cf3a77d153,phone.at,resell,,,high,low,5,InterNetX GmbH ( https://nic.at/registrar/80 ),,,29/09/2026 17:28
 1b9816ad-9148-4f76-96cf-68ef452991b3,longitudinal.at,available,,,high,high,12,,,,
 f7029364-b58e-4dbb-9271-548d7bbe75b5,industrialised.at,available,,,high,high,14,,,,
 2659285d-aa1d-490c-a9f1-f5d8aa1232a6,cohesion.at,available,,,high,high,8,,,,
@@ -524,7 +523,6 @@ f5701626-fda9-4488-87a4-adb4d25775e3,maleah.at,available,,,high,high,6,,,,
 7a0f90c4-4ee3-427b-bbbf-ee45e4b741bc,intumesce.at,available,,,high,high,9,,,,
 5e6e4af1-6891-4082-b8a6-aa5447e63470,tufted.at,available,11.99,11.99,medium,low,6,namesilo,,,11/08/2026 13:14
 ac060369-d56a-4412-af49-d1fa14e0110f,hostelry.at,available,11.99,11.99,high,low,8,namesilo,,,21/09/2026 02:26
-082f999a-274a-409c-8021-640a0c156660,impress.at,available,,,high,low,7,,,,
 6b307d6f-9668-4e3d-8ddb-65edc3b2f3ea,astana.at,available,18.99,18.99,high,low,6,name.com,,,18/09/2026 00:11
 1455ad7b-fb51-49c7-ac41-16c6ee9def37,jinky.at,available,,,high,low,5,,,,
 be66e448-2174-44a8-8bbb-229d9d1d599f,scooterist.at,available,,,high,high,10,,,,
@@ -571,12 +569,10 @@ d90cf149-74b1-4b4b-87a9-39b1d9eb3c87,ragee.at,available,11.99,11.99,medium,low,5
 3e264349-8e31-4750-9ddc-7dc2604db3b5,unfixed.at,available,11.99,11.99,medium,low,7,namesilo,,,12/09/2026 10:28
 0925ffa3-84b6-4266-a098-ee5087e59005,apprising.at,available,,,high,high,9,,,,
 ebfe9814-fd10-4fd5-87b3-4b3d78dc840c,slunk.at,available,,,high,high,5,,,,
-41977c80-c5c6-438e-b271-5cff0c14ccef,sensor.at,available,,,high,low,6,,,,
 bafdfd8e-66c8-4bf6-b46e-5e39364913c9,wormed.at,available,,,high,high,6,,,,
 7b08ad1c-dcda-4451-9e19-d5b189632f12,pacesetter.at,available,,,high,high,10,,,,
 24a67ca5-fca6-429e-8468-9d6e0b95c809,merino.at,available,,,high,high,6,,,,
 68115a56-eaa2-47bd-960b-2969b38de536,overran.at,available,,,high,high,7,,,,
-a3515a55-8c51-453f-b691-efa3df2e446a,potato.at,available,,,high,low,6,,,,
 d520916b-de0d-4287-8c64-7a2703302ea0,basketmaker.at,available,,,high,high,11,,,,
 89ba6c4e-6944-457a-ae21-b492aa981dbe,glamer.at,available,,,high,low,6,,,,
 a7f58080-b003-4871-96df-b69bd54fe703,gustatory.at,available,11.99,11.99,high,low,9,namesilo,,,20/08/2026 21:07
@@ -609,7 +605,6 @@ e60cb947-c37d-45a8-ba44-9f7b7146f947,morphemics.at,available,,,high,high,10,,,,
 66040ba2-60f3-42f0-ba43-b087f4431233,shrouding.at,available,,,high,high,9,,,,
 51b6d0f2-d26b-4b7b-8dd6-8991937f01d7,exploded.at,available,18.99,18.99,high,low,8,name.com,,,17/08/2026 18:28
 5f57f104-f2af-469f-b443-17ad480be181,becomes.at,available,11.99,11.99,high,low,7,namesilo,,,27/09/2026 10:31
-4cd696d9-56f1-406d-863f-1d2f42cba25e,colors.at,available,,,high,low,6,,,,
 9096173c-ac69-4b5c-9c68-d09c1ba230cb,gomel.at,available,,,high,high,5,,,,
 ed63aac7-346d-45b0-afec-05c74dfc58ee,goldseed.at,available,,,high,high,8,,,,
 46056cba-f2cf-4250-9ac9-cf3de44b0285,fumarate.at,available,,,high,high,8,,,,
@@ -623,7 +618,7 @@ ed12af1d-f67a-431f-903b-8b319f04418f,shrieked.at,available,11.99,11.99,high,medi
 95d76ae1-cc3c-4a7e-bd63-6539e5e21aa9,specious.at,available,11.99,11.99,high,medium,8,namesilo,,,10/09/2026 15:26
 1c46fe0f-5315-42db-ab24-ffbb8db34255,humour.at,available,11.99,11.99,high,low,6,namesilo,,,24/09/2026 06:31
 7f7a165c-05f0-4a26-8ad2-4ebf5d8599e0,ethel.at,available,11.99,11.99,high,low,5,namesilo,,,28/09/2026 07:21
-160eda5a-424b-4190-acbf-29777c60d5e8,kansas.at,available,18.99,,high,low,6,name.com,,,
+160eda5a-424b-4190-acbf-29777c60d5e8,kansas.at,available,11.99,11.99,high,low,6,namesilo,,,30/09/2026 01:12
 8484fe58-95f0-4f0c-a76e-8c611ae7783f,savings.at,resell,,,high,low,7,EWBCD GmbH ( https://nic.at/registrar/750 ),,,28/09/2026 13:08
 da186a02-a731-40be-a006-34d43a0f59d5,allsorts.at,available,11.99,11.99,medium,low,9,namesilo,,,16/09/2026 05:53
 c6aed5ba-ce65-4b38-a700-dbf0cd4ab66b,preannounce.at,available,,,high,high,11,,,,
@@ -631,7 +626,7 @@ c61330d5-79b9-4328-98c4-922c7acf70e2,pleaser.at,available,11.99,11.99,high,mediu
 9c317e58-6ba0-4bd5-9c06-da8ea581150e,highs.at,available,,,high,medium,5,,,,
 e2170607-54e4-4c22-81eb-a52e1ecc3862,knitwork.at,available,,,high,high,8,,,,
 237a68e1-9e8e-491a-aaab-ab2fcea89c21,functors.at,available,,,high,low,8,,,,
-18e938ec-787a-4845-9f93-e3eb3927283c,betrayer.at,available,11.99,11.99,medium,low,8,namesilo,,,23/09/2026 11:31
+18e938ec-787a-4845-9f93-e3eb3927283c,betrayer.at,available,11.99,11.99,high,low,8,namesilo,,,23/09/2026 11:31
 83252976-43c8-4a0f-9fec-0a08f4ce70c8,tameness.at,available,,,high,high,8,,,,
 d8234ece-3c01-48bd-a0a5-5ce6ac49d392,nations.at,available,11.99,11.99,high,low,7,namesilo,,,27/09/2026 22:54
 af9f51ab-21cc-47c3-9860-83b9205777fd,exhalation.at,available,,,high,high,10,,,,
@@ -663,7 +658,7 @@ d457cd34-528b-49b9-aac2-0e9ad05f34df,weevil.at,available,,,high,high,6,,,,
 a917d212-2107-4d18-b38f-4a931cedbffb,ocher.at,available,11.99,11.99,high,low,5,namesilo,,,04/09/2026 00:31
 67ca73c6-6775-4f76-8c57-267ebb6de882,periodically.at,available,,,high,low,12,,,,
 640caca5-19f5-4751-80a2-4708330d86ef,pradesh.at,available,11.99,11.99,high,low,7,namesilo,,,28/09/2026 03:36
-f90c0478-053f-43e8-ac94-430fffdde9b7,scaley.at,available,11.99,11.99,medium,low,6,namesilo,,,09/09/2026 22:18
+f90c0478-053f-43e8-ac94-430fffdde9b7,scaley.at,available,11.99,11.99,high,low,6,namesilo,,,09/09/2026 22:18
 b27bbe1e-4f59-445b-9de0-c20396b637e7,yoghourts.at,available,,,medium,low,9,,,,
 351db1cc-25af-4da4-843a-d589a979c33e,symphony.at,available,,,high,low,8,,,,
 e6cfcae0-615f-4918-9826-ba1fca19876d,bushy.at,available,11.99,11.99,high,low,5,namesilo,,,11/08/2026 11:15
@@ -680,18 +675,20 @@ c6229470-21d4-48f7-b878-7271d4f57e62,extracurricular.at,available,11.99,11.99,hi
 23445ee1-6483-4824-8ac7-db60fe54d704,carmichael.at,available,17.99,17.99,high,low,10,godaddy,,,28/09/2026 02:01
 3d764404-aa95-41a3-a18c-d27ec08a9137,wishful.at,available,11.99,11.99,high,low,7,namesilo,,,07/08/2026 05:07
 8ef46052-4243-477a-8aec-45f5c99b7534,lunchtime.at,available,,,high,low,10,,,,
+ce288281-eb0a-4fd0-8ef1-22246ebff0bd,triggered.at,available,11.12,11.12,medium,low,9,dynadot,,,29/09/2026 05:24
 2f48cbc2-5e15-4b4e-9ef1-dee422f24f39,apples.at,available,,,high,low,6,,,,
 fd422aba-f038-4ff6-8edc-2d0f9982b81e,droning.at,available,11.99,11.99,high,low,7,namesilo,,,25/08/2026 05:28
 72faf644-0a88-4c52-9f31-43894f7675eb,harbourage.at,available,,,high,high,10,,,,
 9a1efe6f-39ce-4230-b6de-b252d05a5117,tuatara.at,available,,,high,high,7,,,,
 f27222e9-2f7a-4731-8389-6f7fd8bd96d8,incan.at,available,11.99,11.99,high,low,5,namesilo,,,22/08/2026 00:44
 dbe97e8f-e820-4551-987d-c3c398f0c9a3,europeanisation.at,available,,,high,low,15,,,,
-991929e6-0969-4d25-9659-90b1584f4afd,manageableness.at,available,,,medium,low,14,,,,
+8cab30fa-1101-4769-812b-90dd487d9640,accompanied.at,available,11.99,11.99,high,low,11,namesilo,,,29/09/2026 10:27
+991929e6-0969-4d25-9659-90b1584f4afd,manageableness.at,available,,,high,low,14,,,,
 c72fb660-5eb7-4e94-bf67-4e2b8295eaee,baldhead.at,available,11.99,11.99,high,low,8,namesilo,,,21/09/2026 21:41
 db5a4731-b0aa-4a60-b2a7-9d1779a148e2,caudate.at,available,11.99,11.99,high,low,7,namesilo,,,11/08/2026 22:26
 60ab05db-cd50-4eff-8913-b54ec6f214df,lovably.at,available,,,high,high,7,,,,
 afd528a9-bf61-4206-b152-6917a52bdd22,babygro.at,available,,,high,high,7,,,,
-6375ff6f-86e9-453b-92e6-4e478c6c49d1,amboy.at,available,,,high,high,5,,,,
+6375ff6f-86e9-453b-92e6-4e478c6c49d1,amboy.at,available,11.12,11.12,high,low,5,dynadot,,,29/09/2026 21:41
 ab0aa223-3044-4cd3-8346-43b796d4fc69,highland.at,available,18.99,18.99,high,low,8,name.com,,,21/08/2026 09:16
 27358cae-7fb7-4b83-8e5c-bf0c47e9efbb,cockcrow.at,available,11.99,11.99,high,low,8,namesilo,,,11/09/2026 02:11
 e42f89bc-b6e8-44a1-9d3b-350e48985e6a,patted.at,available,,,medium,low,6,,,,
@@ -701,7 +698,7 @@ e42f89bc-b6e8-44a1-9d3b-350e48985e6a,patted.at,available,,,medium,low,6,,,,
 5ec084ec-edb6-458c-8f73-16f4f9c5b6e3,smallie.at,available,,,high,high,7,,,,
 bd3db4cc-442f-4059-833d-90d5c63a34a5,orientated.at,available,,,high,low,10,,,,04/09/2026 17:54
 c113a763-497e-443a-9298-35c53851caa5,popes.at,available,,,high,low,5,,,,
-32a98ae5-41eb-46cc-8f41-c0b80626415f,sisyphean.at,available,11.99,11.99,medium,low,9,namesilo,,,10/09/2026 08:58
+32a98ae5-41eb-46cc-8f41-c0b80626415f,sisyphean.at,available,11.99,11.99,high,low,9,namesilo,,,10/09/2026 08:58
 7d47c6a7-c12f-43e5-b409-574f0c64d68b,motorcoach.at,available,11.99,11.99,high,low,10,namesilo,,,21/09/2026 06:31
 9d5a7728-200e-4faf-b049-e9bc955386ab,something.at,resell,,,high,low,9,"GoDaddy.com, LLC ( https://nic.at/registrar/693 )",,,26/09/2026 09:09
 ade48117-fecd-4ed7-9d85-aa2a08361012,suborbital.at,available,11.99,11.99,high,low,10,namesilo,,,11/09/2026 00:34
@@ -715,7 +712,7 @@ e2ab6145-dd14-45f8-bd08-96ec1bc504c9,instructively.at,available,,,high,high,13,,
 e04c2b3c-511d-478e-9624-8f35b2097a6b,gestate.at,available,,,high,high,7,,,,
 437cff4e-6d58-407b-b9d2-c2d6fcd1ba87,gyroscopic.at,available,18.99,18.99,high,low,10,name.com,,,20/08/2026 21:21
 61f8487c-e77e-414c-b405-9e5b72804c12,sudden.at,available,11.99,11.99,high,low,6,namesilo,,,28/09/2026 01:51
-2ca63831-c1da-4f6c-8705-af3e4d2efbd3,stuffing.at,available,,,high,high,8,,,,
+2ca63831-c1da-4f6c-8705-af3e4d2efbd3,stuffing.at,available,11.99,11.99,high,low,8,namesilo,,,29/09/2026 14:01
 2c289478-8607-47f8-944c-a315f31740d3,contrail.at,available,,,high,high,8,,,,
 8a09c324-0b0a-495b-a1c4-c22d17f799e1,homologous.at,available,11.99,11.99,high,low,10,namesilo,,,21/08/2026 12:58
 f5039304-23e3-45ae-8f72-e62451ad6c72,uniquely.at,available,11.99,11.99,high,low,8,namesilo,,,16/09/2026 10:06
@@ -746,7 +743,7 @@ b9a71182-8735-49bc-bd64-ddbdf8680473,muckland.at,available,,,high,high,8,,,,
 0e557b0b-0721-4b95-9f62-baaa6e2fee69,terence.at,available,11.99,11.99,high,low,7,namesilo,,,27/09/2026 15:27
 c730e034-d4b8-45e2-a527-19e38d0d319b,relents.at,available,,,medium,low,7,,,,
 0d199e29-8b0c-436a-931d-5f7f2ba6c984,studs.at,available,11.99,11.99,high,low,5,namesilo,,,
-739e98dc-3d02-4ebe-af49-f8aabd339af8,imperious.at,available,11.99,11.99,medium,low,9,namesilo,,,21/08/2026 01:26
+739e98dc-3d02-4ebe-af49-f8aabd339af8,imperious.at,available,11.99,11.99,high,low,9,namesilo,,,21/08/2026 01:26
 54f556ac-ee15-4fde-9641-adb306d60c03,maldivan.at,available,,,high,high,8,,,,
 b7084123-cb14-4f7a-928e-05581bb9bba9,acidophobia.at,available,,,medium,low,11,,,,
 b9d6d0bd-7859-4eb2-914b-9806755f240b,supplying.at,available,,,high,high,9,,,,
@@ -769,7 +766,7 @@ aa54ab5c-e2ec-46b8-b6d8-c87dcc00869a,spaciously.at,available,11.99,11.99,high,lo
 e2b0e010-1a34-4b52-bc14-c2a83f6acae8,stace.at,available,,,high,high,5,,,,
 605801b9-2aa9-4a97-ba49-d4f12aaa285a,apparel.at,resell,,,high,low,7,eu-iris.at web invest gmbh & co KG ( https://nic.at/registrar/679 ),,,28/09/2026 21:48
 94831bd4-1a2c-4a9c-b2ad-296a68c5474b,nonviable.at,available,,,medium,low,9,,,,03/09/2026 21:02
-398f1aa8-3de7-46b8-9e86-e6997480df75,calves.at,available,,,high,low,6,,,,
+398f1aa8-3de7-46b8-9e86-e6997480df75,calves.at,available,11.99,11.99,high,low,6,namesilo,,,29/09/2026 23:18
 f58581a5-c4ea-4b6e-b374-a93b071e448c,acetal.at,available,11.99,11.99,high,low,6,namesilo,,,16/09/2026 23:47
 f0e00ef5-467a-43c2-9351-d2b2e0c4ee0a,quiltmaking.at,available,,,high,low,11,,,,
 e335f2b3-484e-47a9-b433-3ee5aebb847c,snatcher.at,available,11.99,11.99,high,low,8,namesilo,,,16/09/2026 14:55
@@ -792,8 +789,9 @@ e99f97e4-e6fb-478f-944a-f878ba08553b,wilfred.at,available,11.99,11.99,medium,low
 09f375ae-b606-43d7-b773-26daacb23de3,articles.at,resell,,,high,low,8,EWBCD GmbH ( https://nic.at/registrar/750 ),,,28/09/2026 04:25
 6e83a546-9bfa-4305-ad27-3dec66560a0d,absolutizable.at,available,,,medium,low,13,,,,
 91316eee-9c55-426e-b965-ca8276320cf3,bankrolled.at,available,,,medium,low,10,,,,
+7d921460-dc62-4a93-8e2e-441ccfaff9b8,crowell.at,available,11.99,11.99,high,low,7,namesilo,,,29/09/2026 09:14
 62faa398-f375-47c1-8e32-45330b8f94d8,algren.at,available,11.99,11.99,high,low,6,namesilo,,,18/09/2026 07:18
-e707c3ff-9efa-4f20-9805-e71c5c4e4938,clxxv.at,available,11.99,11.99,medium,low,5,namesilo,,,
+e707c3ff-9efa-4f20-9805-e71c5c4e4938,clxxv.at,available,11.99,11.99,high,low,5,namesilo,,,
 90e0a104-6462-4d7b-8fdf-67f95a413232,compares.at,available,,,high,low,8,,,,
 73845f8c-414b-4fe6-bc43-d6ac605c9afa,ballota.at,available,11.99,11.99,high,low,7,namesilo,,,21/09/2026 23:16
 63399ae0-e549-4033-80ec-2387b2c0f266,fraisthorpe.at,available,,,high,high,11,,,,
@@ -808,7 +806,8 @@ e90259e5-a7d7-4dc8-970d-065b7fd7791a,coeval.at,available,11.99,11.99,high,low,6,
 4dc63ecf-f694-41f5-8667-8daa79dce213,perambulator.at,available,,,high,high,12,,,,
 fabc861b-324f-4e76-b59a-082b3f60201e,phelps.at,available,,,high,low,6,,,,
 83614bce-ae1b-4b7f-beb3-f3bce31ae8e4,songstresses.at,available,,,medium,low,12,,,,
-17c5da9a-ff47-4c00-b9c1-d919185ffe3a,coordination.at,available,,,high,high,12,,,,
+17c5da9a-ff47-4c00-b9c1-d919185ffe3a,coordination.at,available,11.99,11.99,high,low,12,namesilo,,,29/09/2026 23:16
+2173b10e-56cc-47d7-bc5b-68830cbee80f,hertford.at,available,11.99,11.99,high,low,8,namesilo,,,29/09/2026 22:01
 e03ea14b-baf2-49a4-9e9d-bc8d93c31f47,grapeshot.at,available,,,high,high,9,,,,
 a643e59f-af32-4c81-9957-1e85c59478db,reordered.at,available,,,high,low,9,,,,
 3133bcd6-da41-474d-85a5-3e0ed8aa9a6e,perspicuity.at,available,,,high,high,11,,,,
@@ -816,7 +815,7 @@ a643e59f-af32-4c81-9957-1e85c59478db,reordered.at,available,,,high,low,9,,,,
 82452980-7b29-42cc-aed3-c3b34a5e2a96,unvoted.at,available,,,high,medium,7,,,,
 2518a3b8-3093-4b45-af66-035fd3bdb935,hillward.at,available,,,medium,low,8,,,,
 b8b70695-d3ea-49e3-8cf0-eb17a8c215fa,relisten.at,available,,,high,high,8,,,,
-410d6585-b66d-41dd-b312-3d54ff45e2ac,infiltrate.at,available,17.99,17.99,high,high,10,godaddy,,,28/09/2026 02:21
+410d6585-b66d-41dd-b312-3d54ff45e2ac,infiltrate.at,available,11.99,11.99,high,low,10,namesilo,,,29/09/2026 20:43
 9ff55a77-bb3b-4dfa-bf4a-7d6632e4cb4e,actualize.at,available,,,high,high,9,,,,
 e41429e4-b1ad-42a8-b6be-26971b71c6ac,flask.at,available,,,high,high,5,,,,
 82182800-6f14-4533-8031-3fc075385084,lawndale.at,available,,,high,high,8,,,,
@@ -830,7 +829,7 @@ bbba4da8-f037-4c57-be5f-132bfcdbbf52,nannette.at,available,,,high,high,8,,,,
 fe90e610-a1ef-47b8-91f7-f386907dc67b,hind.at,available,11.99,11.99,high,low,4,namesilo,,,21/08/2026 09:26
 1c82464d-c94c-4f8c-89bd-ccee93eb66d5,substations.at,available,,,high,low,11,,,,
 74dd31da-960a-4549-b384-d50b1395b927,destructive.at,available,18.99,,high,low,11,name.com,,,
-31df74fb-4404-4e01-8042-81da8d056206,myths.at,available,,,high,medium,5,,,,
+31df74fb-4404-4e01-8042-81da8d056206,myths.at,available,11.99,11.99,high,low,5,namesilo,,,30/09/2026 00:32
 55950ddb-1377-4643-b53f-1a27f6684c22,enounce.at,available,,,high,high,7,,,,
 a133b08c-e3f3-4e4c-af6d-f83a97a31e92,portuguese.at,resell,,,high,low,10,web invest gmbh ( https://nic.at/registrar/569 ),,,26/09/2026 08:15
 5b9723b7-1cb2-4e8f-88f2-05245c1f6901,flittering.at,available,,,high,high,10,,,,
@@ -839,7 +838,7 @@ cd676675-17df-4352-bcfb-abbf8860ff60,duvetyne.at,available,,,high,low,8,,,,
 602cf94b-57d9-44b3-b744-92e6e0c4bec6,kasey.at,available,,,high,high,5,,,,
 ea046419-1b14-417e-831d-dc3c609a16ae,restocked.at,available,,,high,low,9,,,,
 edee082f-8a1e-4490-8d38-9bf9a42ad3fe,brimstone.at,available,,,high,high,9,,,,
-2952ec7b-a8d0-4535-a685-5c502c502eb2,brethren.at,available,,,high,high,8,,,,
+2952ec7b-a8d0-4535-a685-5c502c502eb2,brethren.at,available,11.99,11.99,high,low,8,namesilo,,,30/09/2026 00:52
 2a56f8ba-6c45-41d5-abb5-fa1945c7a7fa,chipotle.at,available,,,high,high,8,,,,
 8896c36e-4f1b-455c-a678-8ec7cfeb1253,friant.at,available,,,high,high,6,,,,
 9f1525ed-275e-43f9-b217-c98573c047d4,xoxo.at,available,,,high,medium,4,,,,
@@ -847,7 +846,7 @@ edee082f-8a1e-4490-8d38-9bf9a42ad3fe,brimstone.at,available,,,high,high,9,,,,
 574ec979-d255-495d-b0fd-2ca9706d4ac2,impactful.at,available,,,high,high,9,,,,
 72ee2299-336c-4b97-baab-e8d5db6d02fe,mitigation.at,available,,,high,high,10,,,,
 2ea3e499-f669-4924-b8df-6136536d39ca,wettable.at,available,,,high,high,8,,,,
-fcfae70b-3703-4819-bbb4-6af8cfe81861,pathological.at,available,,,high,high,12,,,,
+fcfae70b-3703-4819-bbb4-6af8cfe81861,pathological.at,available,11.12,11.12,high,low,12,dynadot,,,29/09/2026 21:08
 c3a51480-fefb-4530-949d-c8b67c72b549,unblighted.at,available,,,high,low,10,,,,
 44d1f66f-6085-4cef-a19c-633bf1c56214,altruisms.at,available,,,high,low,9,,,,
 f5d1cf16-65b7-46be-b2c9-922eb9d2dc49,sexes.at,available,,,high,low,5,,,,
@@ -878,14 +877,13 @@ dc36324f-866e-452b-b967-6fa0a79b575e,eurolaw.at,available,,,high,high,7,,,,
 7037260c-0a0a-4820-96db-23e1e70975b3,sandwich.at,available,,,high,low,8,,,,
 3e509cb9-f2a5-4b51-9471-73ef8b223dab,timepass.at,available,,,high,high,8,,,,
 26b061d7-bc5a-4771-aead-7a982f24e9fd,redmond.at,available,11.99,11.99,medium,low,7,namesilo,,,28/09/2026 11:41
-967cb0d8-8942-4acc-b274-2307968c850c,necks.at,available,11.99,11.99,medium,low,5,namesilo,,,19/09/2026 20:42
+967cb0d8-8942-4acc-b274-2307968c850c,necks.at,available,11.99,11.99,high,low,5,namesilo,,,19/09/2026 20:42
 892c5cac-f6c6-468b-9ee5-7df501be188e,gestation.at,available,,,high,high,9,,,,
 640b3a04-522b-4f5d-8424-55abc86fbdb8,deboard.at,available,,,high,high,7,,,,
 1e02d296-f568-43d4-9f93-a27427d225cf,occupancy.at,available,,,high,high,9,,,,
 2d1b4d27-95fb-4e5f-9fbd-b4e992b9e79d,flowerlike.at,available,,,high,high,10,,,,
-3688789f-1659-4538-9819-950348084409,reims.at,available,,,high,high,5,,,,
+3688789f-1659-4538-9819-950348084409,reims.at,available,11.12,11.12,high,low,5,dynadot,,,29/09/2026 13:45
 a130697c-9505-4230-bb89-4847d29229ed,elsie.at,available,11.99,11.99,high,low,5,namesilo,,,27/09/2026 07:34
-ea161431-a156-4c35-a39e-f750312c3c78,jamison.at,available,,,high,high,7,,,,
 5f3baa7c-6a11-4185-82e7-bfe0de2917ad,seek.at,resell,,,high,low,4,Florian Wieser ( https://nic.at/registrar/462 ),,,28/09/2026 23:05
 7bef28b5-4b5f-4b36-8342-96349aa3ae17,gazebo.at,available,,,high,high,6,,,,
 a1578100-6ec2-4000-a6d6-fddddff36900,superstore.at,available,,,high,high,10,,,,
@@ -897,6 +895,7 @@ fad36199-86ee-4362-8eb2-d377ed575634,postbuild.at,available,,,high,high,10,,,,
 d9fab009-171c-48b5-a8b4-d29757000684,emu.at,available,,,high,high,3,,,,
 832ed183-4afc-4dc7-baa3-07a077dc9fb7,ashby.at,available,11.99,11.99,medium,low,5,namesilo,,,28/09/2026 16:37
 bf13381e-7618-4b35-bcbf-a858d94c45f6,younging.at,available,,,high,high,8,,,,
+e92e7ab9-f6cc-442f-a90e-819fff704541,markers.at,available,11.99,11.99,medium,low,7,namesilo,,,29/09/2026 06:04
 6361b9b2-f0f9-4ed7-8e03-408a367e32ba,frenchesque.at,available,,,high,high,12,,,,
 2f527e92-8439-4d07-87cc-d57f90a240c8,inverter.at,available,,,high,high,8,,,,
 363362d5-73d2-4b25-8c2d-2b2c081b4f34,patriotically.at,available,,,high,high,13,,,,
@@ -927,7 +926,6 @@ b20a6794-0a08-4038-8f06-d2ad8149fb19,cheery.at,available,,,high,low,6,,,,
 d318622c-0f54-4063-bf07-6df3255bc6eb,outperform.at,available,,,high,high,10,,,,
 9bce0fe8-19ce-4774-9e74-d377002ca4ae,commits.at,available,,,high,medium,7,,,,
 b035aa0e-7dc0-4ba0-b74d-95aa85ae55f0,chadwick.at,available,11.99,11.99,medium,low,8,namesilo,,,28/09/2026 08:16
-09ff6a35-5fd5-4e50-a18b-a9719bb81f18,nerd.at,available,,,high,medium,4,,,,
 cbdad905-ff99-4d0c-980d-b3c78b81d837,bedrest.at,available,11.99,11.99,high,high,8,namesilo,,,22/09/2026 23:03
 14168914-5d9d-4eea-a362-cbc603c8751b,triumphantly.at,available,,,high,high,12,,,,
 87b3a67d-d580-455f-b093-84b8d59a4d31,dressers.at,available,,,medium,low,8,,,,
@@ -936,23 +934,24 @@ ffbf6509-42c7-40db-b31f-e91e9e857dcb,protestant.at,available,,,high,low,10,,,,
 52a36c91-fa57-4b5f-a8c9-156db80c3cf4,seven.at,available,,,high,medium,5,,,,
 5514e6bb-e3a7-4141-8b23-57f8f6b9a851,specifying.at,available,,,high,low,10,,,,
 c952d9c6-fce3-4520-be03-bdd154c7663f,despatch.at,available,,,high,high,8,,,,
-2088e4c5-0f22-46e4-adf4-46ef18de135d,bullirag.at,available,,,medium,low,8,,,,
+2088e4c5-0f22-46e4-adf4-46ef18de135d,bullirag.at,available,,,high,low,8,,,,
 0b105239-274f-401d-90c0-657c3ab69ad3,drivable.at,available,,,high,high,8,,,,
 e761aa05-9862-47e6-b50f-73ec18bf6c32,afore.at,available,,,high,high,5,,,,
 2d64aca9-f2dd-4f76-8e50-5407ab7b395a,sobeit.at,available,11.99,11.99,high,high,6,namesilo,,,16/09/2026 13:51
 1e6d05c0-3c23-4eec-9474-4cab1d5ff409,reshooting.at,available,,,high,high,10,,,,
-47a94f55-bfe1-45eb-a52e-363724af8fb1,calculating.at,available,,,high,high,11,,,,
+47a94f55-bfe1-45eb-a52e-363724af8fb1,calculating.at,available,11.99,11.99,high,low,11,namesilo,,,29/09/2026 14:44
 87b7ddb2-3460-49cd-8f78-86228d59c820,variform.at,available,11.99,11.99,medium,low,8,namesilo,,,13/09/2026 01:22
 d1ba4264-8c71-4936-967b-5611e4842152,petitioning.at,available,,,high,high,11,,,,
 17bc649d-b057-4577-9d22-1066d5362a61,brisken.at,available,11.99,11.99,high,low,7,namesilo,,,11/08/2026 04:39
 00da5a97-0ca2-43aa-a61b-e9b3de04bb49,kirkwall.at,available,,,high,high,8,,,,
 a5697280-46cb-4d72-90ef-7b1a2ca565dc,delible.at,available,11.99,11.99,medium,low,7,namesilo,,,14/08/2026 00:35
 e81b81d6-f631-4d11-9dfb-499087f3c16c,disulfiram.at,available,11.99,11.99,high,low,10,namesilo,,,19/09/2026 12:22
+0af6e934-69b0-4113-b7ae-e5930457eccb,refuges.at,available,11.99,11.99,medium,low,7,namesilo,,,30/09/2026 00:19
 b2b5bb54-9e83-4db2-9162-b888a367a32d,bettor.at,available,11.99,11.99,high,low,6,namesilo,,,23/09/2026 11:49
 413d36ad-f4d4-412f-a61c-8b071baf8272,fridia.at,available,,,high,high,6,,,,
 2ad3d58c-a79d-4112-a25e-6ec300a1872d,explosions.at,available,11.13,11.13,low,low,10,dynadot,,,28/09/2026 23:40
 3b0f018b-a33e-443d-8db5-5ba30a07bf82,cohesive.at,available,11.99,11.99,high,low,8,namesilo,,,12/08/2026 16:05
-a008a3e1-806c-4605-b2de-bb6e19d0364f,unimposing.at,available,11.99,11.99,medium,low,10,namesilo,,,12/09/2026 13:12
+a008a3e1-806c-4605-b2de-bb6e19d0364f,unimposing.at,available,11.99,11.99,high,low,10,namesilo,,,12/09/2026 13:12
 471e5a1a-e328-4e7b-8106-56058b4f435b,woven.at,available,11.99,11.99,high,low,5,namesilo,,,28/09/2026 11:08
 40e794ad-5591-412e-b537-9e643ca5fde1,quartet.at,available,11.99,11.99,high,low,7,namesilo,,,
 eb137a21-a8df-476f-9fb9-686f0798e025,essaying.at,available,,,high,high,8,,,,
@@ -961,6 +960,7 @@ c3594d3f-e8be-4514-9afa-cd6fd429ffe9,reexpress.at,available,,,high,high,9,,,,
 c646179e-f40f-46ac-86b2-896be8312bb6,platelike.at,available,,,high,low,9,,,,08/09/2026 20:17
 579503a9-ba9f-450f-9238-16fbbf88d9cc,sheffield.at,available,,,high,high,9,,,,
 dfeaf47b-b06b-4456-9b50-bbeadb94cf1e,chequebook.at,available,11.99,11.99,high,low,10,namesilo,,,24/09/2026 13:58
+4059b8c1-7cef-4c1e-aaf4-03dbbb87a9d8,cristo.at,available,11.12,11.12,high,low,6,dynadot,,,29/09/2026 11:33
 6fd9510b-074c-4f5c-a7b6-dbe442a91f00,aluminium.at,resell,,,high,low,9,Domainers Registrar AG ( https://nic.at/registrar/668 ),,,26/09/2026 03:49
 9858d113-dbc1-4d6b-b167-b9ae883fe819,parliaments.at,available,,,high,low,11,,,,
 3175e32d-9608-4a3f-85b8-5784a5d49b3b,dazzled.at,available,18.99,18.99,high,low,7,name.com,,,13/08/2026 18:57
@@ -968,7 +968,7 @@ dfeaf47b-b06b-4456-9b50-bbeadb94cf1e,chequebook.at,available,11.99,11.99,high,lo
 8b5b3edc-5de9-4a62-a45e-9b787535df28,resubmit.at,available,,,high,high,8,,,,
 79f5e596-813a-4f00-915e-ded9637a2e4f,overtook.at,available,,,high,high,8,,,,
 dcb8c5b2-9c6c-40e1-a3c1-e49c7374cc88,nowt.at,available,,,high,high,4,,,,
-2dc5bf65-0308-41ed-af6e-a1f263d8b119,unlikable.at,available,11.99,11.99,medium,low,9,namesilo,,,12/09/2026 00:58
+2dc5bf65-0308-41ed-af6e-a1f263d8b119,unlikable.at,available,11.99,11.99,high,low,9,namesilo,,,12/09/2026 00:58
 7fc3c20f-c07c-44ec-9d4f-b812d8841901,despairing.at,available,11.99,11.99,high,low,10,namesilo,,,14/08/2026 03:56
 6029ea0c-3cd9-4ff7-a16d-75f016ab5f98,unsealing.at,available,,,high,high,9,,,,
 c7cc80c1-47c5-40ce-8a49-27055a7b132c,midthought.at,available,,,high,high,10,,,,
@@ -988,7 +988,7 @@ b26ab6bb-3777-4bb4-90e7-282b259e681f,lightskinned.at,available,,,high,high,13,,,
 3e1e188d-38a4-4bb4-bdd9-407b987a08f6,corer.at,available,,,high,high,5,,,,
 a1bbff89-5764-4171-a632-ff833a22410f,spaghettiesque.at,available,,,high,high,14,,,,
 61654065-87a1-4d4f-9a3d-198ad35334ce,palaver.at,available,11.99,11.99,high,low,7,namesilo,,,23/09/2026 23:26
-c7bd67cd-e5d4-4b57-aba0-00b4c375bba5,opposable.at,available,11.99,11.99,medium,low,9,namesilo,,,06/08/2026 07:43
+c7bd67cd-e5d4-4b57-aba0-00b4c375bba5,opposable.at,available,11.99,11.99,high,low,9,namesilo,,,06/08/2026 07:43
 dea3c4ff-0352-46d5-9bcd-cf330b3285cf,hinault.at,available,11.99,11.99,high,low,7,namesilo,,,23/09/2026 09:48
 97fc12b3-af1f-4cf9-acbe-a215e74a1a04,filmish.at,available,,,high,high,7,,,,
 d6d6d344-fcd5-472d-a865-ad4324d8c548,suncream.at,available,,,high,high,8,,,,
