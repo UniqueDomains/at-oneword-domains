@@ -1,10 +1,10 @@
-# Available .AT One-Word Domains (44,141)
+# Available .AT One-Word Domains (44,629)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-44%2C141%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-44%2C629%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .at one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **44,141 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **44,629 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 44,141 domains · **Median ask:** $12.38 · **High-demand under $2,500:** 1,192
+**Public extract:** 1,000 rows · **Live catalog:** 44,629 domains · **Median ask:** $12.32 · **High-demand under $2,500:** 1,247
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/at`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                             |
-| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------------------- |
-| asad.at  | available | $11.99    | $11.99        | high           | low    | 4      | namesilo                                                              |
-| ook.at   | resell    | —         | —             | high           | high   | 3      | Domainers Registrar AG ( https://nic.at/registrar/668 )               |
-| chas.at  | available | $11.99    | $11.99        | medium         | low    | 4      | namesilo                                                              |
-| our.at   | resell    | —         | —             | high           | medium | 3      | InterNetX GmbH ( https://nic.at/registrar/80 )                        |
-| hind.at  | available | $11.99    | $11.99        | high           | low    | 4      | namesilo                                                              |
-| pud.at   | resell    | —         | —             | high           | high   | 3      | InterNetX GmbH ( https://nic.at/registrar/80 )                        |
-| orde.at  | available | $11.99    | $11.99        | high           | high   | 4      | namesilo                                                              |
-| the.at   | resell    | —         | —             | high           | medium | 3      | Greenmark IT GmbH ( https://nic.at/registrar/618 )                    |
-| pyle.at  | available | $11.99    | $11.99        | high           | low    | 4      | namesilo                                                              |
-| agua.at  | resell    | —         | —             | high           | low    | 4      | InterNetX GmbH ( https://nic.at/registrar/80 )                        |
-| vaux.at  | available | $17.99    | $17.99        | high           | low    | 4      | godaddy                                                               |
-| amen.at  | resell    | —         | —             | high           | low    | 4      | Greenmark IT GmbH ( https://nic.at/registrar/618 )                    |
-| along.at | available | $11.99    | $11.99        | high           | high   | 5      | namesilo                                                              |
-| duck.at  | resell    | —         | —             | high           | low    | 4      | Internet Service Fuchs KG ( https://nic.at/registrar/20 )             |
-| amboy.at | available | $11.12    | $11.12        | high           | low    | 5      | dynadot                                                               |
-| jude.at  | resell    | —         | —             | high           | low    | 4      | RegistryGate GmbH ( https://nic.at/registrar/228 )                    |
-| annex.at | available | $11.13    | $11.13        | medium         | low    | 5      | dynadot                                                               |
-| maps.at  | resell    | —         | —             | high           | low    | 4      | Domainers Registrar AG ( https://nic.at/registrar/668 )               |
-| arran.at | available | $11.99    | $11.99        | high           | low    | 5      | namesilo                                                              |
-| port.at  | resell    | —         | —             | high           | low    | 4      | eu-kybele.at web invest gmbh & co KG ( https://nic.at/registrar/687 ) |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| asad.at  | available | $11.99    | $11.99        | high           | low    | 4      | namesilo                                                  |
+| dec.at   | resell    | —         | —             | high           | low    | 3      | —                                                         |
+| chas.at  | available | $11.99    | $11.99        | medium         | low    | 4      | namesilo                                                  |
+| ook.at   | resell    | —         | —             | high           | high   | 3      | Domainers Registrar AG ( https://nic.at/registrar/668 )   |
+| ewan.at  | available | $11       | $11           | high           | low    | 4      | dynadot                                                   |
+| our.at   | resell    | —         | —             | high           | medium | 3      | InterNetX GmbH ( https://nic.at/registrar/80 )            |
+| hind.at  | available | $11.99    | $11.99        | high           | low    | 4      | namesilo                                                  |
+| pud.at   | resell    | —         | —             | high           | high   | 3      | InterNetX GmbH ( https://nic.at/registrar/80 )            |
+| orde.at  | available | $11.99    | $11.99        | high           | high   | 4      | namesilo                                                  |
+| the.at   | resell    | —         | —             | high           | medium | 3      | Greenmark IT GmbH ( https://nic.at/registrar/618 )        |
+| pyle.at  | available | $11.99    | $11.99        | high           | low    | 4      | namesilo                                                  |
+| agua.at  | resell    | —         | —             | high           | low    | 4      | InterNetX GmbH ( https://nic.at/registrar/80 )            |
+| vaux.at  | available | $17.99    | $17.99        | high           | low    | 4      | godaddy                                                   |
+| amen.at  | resell    | —         | —             | high           | low    | 4      | Greenmark IT GmbH ( https://nic.at/registrar/618 )        |
+| along.at | available | $11.99    | $11.99        | high           | high   | 5      | namesilo                                                  |
+| duck.at  | resell    | —         | —             | high           | low    | 4      | Internet Service Fuchs KG ( https://nic.at/registrar/20 ) |
+| amboy.at | available | $11.12    | $11.12        | high           | low    | 5      | dynadot                                                   |
+| jude.at  | resell    | —         | —             | high           | low    | 4      | RegistryGate GmbH ( https://nic.at/registrar/228 )        |
+| annex.at | available | $11.13    | $11.13        | medium         | low    | 5      | dynadot                                                   |
+| maps.at  | resell    | —         | —             | high           | low    | 4      | Domainers Registrar AG ( https://nic.at/registrar/668 )   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 44,141 live domains                        |
+| 1,000-row public sample | 44,629 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 1,192 high-demand names under $2,500       |
+| Basic exported fields   | 1,247 high-demand names under $2,500       |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AT One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AT One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
